@@ -124,8 +124,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const changeSort = e => {
     const sortStyle = e.target.text
-    console.log(sortStyle)
-    let displayBitz = STATE.displayBitz
+    let displayBitz = STATE.bitz
     if (sortStyle == "Alphabetically") {
         displayBitz.sort((bitz1, bitz2) => bitz1.name > bitz2.name ? 1 : -1)
     } else if (sortStyle == "Oldest") {
@@ -140,9 +139,26 @@ const changeSort = e => {
 }
 
 const changeFilterType = e => {
-    STATE.filterType = e.target.text
+    const filterTypeStyle = e.target.text
+    let displayBitz = STATE.bitz
+
+    if (filterTypeStyle == "Games")
+        displayBitz = displayBitz.filter(bitz => bitz.game)
+    else if (filterTypeStyle == "Trinkets")
+        displayBitz = displayBitz.filter(bitz => !bitz.game)
+    else {
+        displayBitz = STATE.bitz
+    }
+    STATE.displayBitz = displayBitz
+    console.log(STATE.displayBitz)
 }
 
 const changeFilterTag = e => {
-    STATE.filterTag = e.target.text
+    const filterTagStyle = parseInt(e.target.text)
+    let displayBitz = STATE.bitz
+
+    displayBitz = displayBitz.filter(bitz => bitz.tags.includes(filterTagStyle))
+
+    STATE.displayBitz = displayBitz
+    console.log(STATE.displayBitz)
 }
