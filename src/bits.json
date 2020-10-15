@@ -1,7 +1,5 @@
 {
-
     "metatags": "0 = physics, 1 = pretty, 2 = sidescroller, 3  = strategy, 4 = action, 5 = survival 6 = simulation 7 = turn based 8 = math", 
-
     "bitz": [
         {
             "bitzId": "1",

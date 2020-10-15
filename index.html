@@ -8,13 +8,11 @@
         body {
           background-color: #00897b;
         }
-
         .ui.inverted.menu .moss.active.item,
         .ui.inverted.moss.menu {
         background-color: #004d3f;
         }
-        </style>
-
+    </style>
   </head>
   <body>
     <div class="ui fixed inverted moss menu">
@@ -52,12 +50,33 @@
     </div>
     </div>
 
-    <div class="ui stackable three column grid">
-    <div class="column"></div>
-    <div class="column"></div>
-    <div class="column"></div>
+    <div class="ui stackable three column grid" id="bitzgrid">
+        <div class="ui special cards">
+            <div class="card">
+              <div class="blurring dimmable image">
+                <div class="ui inverted dimmer">
+                  <div class="content">
+                    <div class="center">
+                      <div class="ui primary button">Add Friend</div>
+                    </div>
+                  </div>
+                </div>
+                <img src="https://pbs.twimg.com/media/EeIHdguVoAAfU5y?format=jpg&name=large">
+              </div>
+              <div class="content">
+                <a class="header">Team Hess</a>
+                <div class="meta">
+                  <span class="date">Created in Aug 2014</span>
+                </div>
+              </div>
+            </div>
+        </div>
     </div>
-    
+    <script>
+        $('.special.cards .image').dimmer({
+        on: 'hover'
+        });
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
   </body>

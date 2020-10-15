@@ -1,3 +1,5 @@
+
+
 STATE = {
     bitz: [
         {
@@ -118,8 +120,8 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("3").addEventListener("click", changeFilterTag)
     document.getElementById("4").addEventListener("click", changeFilterTag)
     document.getElementById("5").addEventListener("click", changeFilterTag)
-    
-    console.log(STATE.displayBitz)
+
+    makeBitzCards()
 })
 
 const changeSort = e => {
@@ -135,6 +137,7 @@ const changeSort = e => {
         displayBitz.sort((bitz1, bitz2) => bitz1.bitzId < bitz2.bitzId ? 1 : -1)
     }
     STATE.displayBitz = displayBitz
+    makeBitzCards()
     console.log(STATE.displayBitz)
 }
 
@@ -150,6 +153,7 @@ const changeFilterType = e => {
         displayBitz = STATE.bitz
     }
     STATE.displayBitz = displayBitz
+    makeBitzCards()
     console.log(STATE.displayBitz)
 }
 
@@ -160,5 +164,21 @@ const changeFilterTag = e => {
     displayBitz = displayBitz.filter(bitz => bitz.tags.includes(filterTagStyle))
 
     STATE.displayBitz = displayBitz
+    makeBitzCards()
     console.log(STATE.displayBitz)
+}
+
+const makeBitzCards = () => {   
+    let grid = document.getElementById("bitzgrid")
+
+    STATE.displayBitz.forEach(bitz => {
+        let card = new Card (bitz, grid)
+        let 
+    })
+
+    let div = document.createElement("div")
+    div.classList.add("column")
+    let text = document.createTextNode("test")
+    div.appendChild(text)
+    grid.appendChild(div)
 }
