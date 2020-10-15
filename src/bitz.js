@@ -31,6 +31,8 @@ class Bitz {
         dimmerDiv.classList.add("ui")
         dimmerDiv.classList.add("inverted")
         dimmerDiv.classList.add("dimmer")
+        dimmerDiv.classList.add("transition")
+        dimmerDiv.classList.add("hidden")
         contentDiv.classList.add("content")
         centerDiv.classList.add("center")
         descriptionDiv.classList.add("ui")
@@ -46,5 +48,6 @@ class Bitz {
         cardDiv.appendChild(dimmingImageDiv)
         specialCardDiv.appendChild(cardDiv)
         document.getElementById("bitzgrid").appendChild(specialCardDiv)
+
     }
 }
