@@ -427,7 +427,7 @@ STATE = {
             "description": "Hop the dot through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinder.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/hoppy1.png"
         },
         {
             "bitzId": "48",
@@ -436,7 +436,7 @@ STATE = {
             "description": "Hop the donut through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinderd.html",
             "tags": [0,1],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/hopdonut1.png"
         },
         {
             "bitzId": "49",
@@ -445,7 +445,7 @@ STATE = {
             "description": "Manipulate the fungal evolution.",
             "urltogame": "http://ditzbitz.com/bungi.html",
             "tags": [1, 6, 10 ],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/bungi1.png"
         },
         {
             "bitzId": "50",
@@ -454,16 +454,7 @@ STATE = {
             "description": "Play this fairly typical resource-management turn-based RPG.",
             "urltogame": "http://ditzbitz.com/beatnik.html",
             "tags": [7, 3, 5, 8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
-        },
-        {
-            "bitzId": "51",
-            "name": "Beatnik Battle",
-            "game": true,
-            "description": "Play this fairly typical resource-management turn-based RPG.",
-            "urltogame": "http://ditzbitz.com/beatnik.html",
-            "tags": [7, 3, 5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/beatnik1.png"
         },
         {
             "bitzId": "52",
@@ -472,7 +463,7 @@ STATE = {
             "description": "A pandemic simulation.",
             "urltogame": "http://ditzbitz.com/spop.html",
             "tags": [1, 6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/spop1.png"
         },
         {
             "bitzId": "53",
@@ -481,7 +472,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home.",
             "urltogame": "http://ditzbitz.com/recoil.html",
             "tags": [4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/laserscroller1.png"
         },
         {
             "bitzId": "54",
@@ -490,7 +481,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings.",
             "urltogame": "http://ditzbitz.com/powertower.html",
             "tags": [3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/towers1.png"
         },
         {
             "bitzId": "55",
@@ -499,7 +490,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings, and freeform.",
             "urltogame": "http://ditzbitz.com/powertowerx.html",
             "tags": [3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/towersf1.png"
         },
         {
             "bitzId": "56",
@@ -508,16 +499,16 @@ STATE = {
             "description": "Colonize the galaxy, fight for the supremacy of your species!",
             "urltogame": "http://ditzbitz.com/sagitarius.html",
             "tags": [1,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/king1.png"
         },
         {
             "bitzId": "57",
             "name": "BlastyBoxes",
             "game": true,
             "description": "Do the math, disarm the bomb!",
-            "urltogame": "http://ditzbitz.com/sagitarius.html",
+            "urltogame": "http://ditzbitz.com/muse.html",
             "tags": [5,7,8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/blastyboxes1.png"
         },
         {
             "bitzId": "58",
@@ -526,7 +517,7 @@ STATE = {
             "description": "Select the box, move the ball, violate inertia!",
             "urltogame": "http://ditzbitz.com/boxsteer.html",
             "tags": [0,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boxsteer1.png"
         },
         {
             "bitzId": "59",
@@ -535,7 +526,7 @@ STATE = {
             "description": "Collect the boxes, swoop the ball.",
             "urltogame": "http://ditzbitz.com/swoop.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/swoop1.png"
         },
         {
             "bitzId": "60",
@@ -544,7 +535,7 @@ STATE = {
             "description": "Protect yourself with deadly force.",
             "urltogame": "http://ditzbitz.com/blastyballs.html",
             "tags": [1,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/blastyballs1.png"
         },
         {
             "bitzId": "61",
@@ -553,7 +544,7 @@ STATE = {
             "description": "Protect yourself with deadly force, but in a dungeon.",
             "urltogame": "http://ditzbitz.com/crawler.html",
             "tags": [1,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/crawler1.png"
         },
         {
             "bitzId": "62",
@@ -562,16 +553,16 @@ STATE = {
             "description": "Solar-powered platforming.",
             "urltogame": "http://ditzbitz.com/curveshot.html",
             "tags": [0, 9],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boggy1.png"
         },
         {
             "bitzId": "62",
-            "name": "Saiiling Skylinea",
+            "name": "Saiiling Skylines",
             "game": true,
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
             "tags": [2,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/sailing1.png"
         },
         {
             "bitzId": "63",
@@ -579,8 +570,8 @@ STATE = {
             "game": true,
             "description": "Math-powered thinkforming.",
             "urltogame": "http://ditzbitz.com/box.html",
-            "tags": [2,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "tags": [8],
+            "imgsrc": "http://ditzbitz.com/beatbox1.png"
         },
         {
             "bitzId": "64",
@@ -589,7 +580,7 @@ STATE = {
             "description": "Shape-shiting action RPG.",
             "urltogame": "http://ditzbitz.com/dancer.html",
             "tags": [2,3,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/dancer1.png"
         },
         // {
         //     "bitzId": "65",
@@ -607,7 +598,7 @@ STATE = {
             "description": "Breed patterns.",
             "urltogame": "http://ditzbitz.com/tempus.html",
             "tags": [1, 10],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/octobreeder1.png"
         },
         {
             "bitzId": "67",
@@ -616,7 +607,7 @@ STATE = {
             "description": "Ray casting.",
             "urltogame": "http://ditzbitz.com/rays.html",
             "tags": [1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rays1.png"
         },
         {
             "bitzId": "68",
@@ -1302,7 +1293,7 @@ STATE = {
             "description": "Hop the dot through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinder.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/hoppy1.png"
         },
         {
             "bitzId": "48",
@@ -1311,7 +1302,7 @@ STATE = {
             "description": "Hop the donut through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinderd.html",
             "tags": [0,1],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/hopdonut1.png"
         },
         {
             "bitzId": "49",
@@ -1320,7 +1311,7 @@ STATE = {
             "description": "Manipulate the fungal evolution.",
             "urltogame": "http://ditzbitz.com/bungi.html",
             "tags": [1, 6, 10 ],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/bungi1.png"
         },
         {
             "bitzId": "50",
@@ -1329,16 +1320,7 @@ STATE = {
             "description": "Play this fairly typical resource-management turn-based RPG.",
             "urltogame": "http://ditzbitz.com/beatnik.html",
             "tags": [7, 3, 5, 8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
-        },
-        {
-            "bitzId": "51",
-            "name": "Beatnik Battle",
-            "game": true,
-            "description": "Play this fairly typical resource-management turn-based RPG.",
-            "urltogame": "http://ditzbitz.com/beatnik.html",
-            "tags": [7, 3, 5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/beatnik1.png"
         },
         {
             "bitzId": "52",
@@ -1347,7 +1329,7 @@ STATE = {
             "description": "A pandemic simulation.",
             "urltogame": "http://ditzbitz.com/spop.html",
             "tags": [1, 6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/spop1.png"
         },
         {
             "bitzId": "53",
@@ -1356,7 +1338,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home.",
             "urltogame": "http://ditzbitz.com/recoil.html",
             "tags": [4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/laserscroller1.png"
         },
         {
             "bitzId": "54",
@@ -1365,7 +1347,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings.",
             "urltogame": "http://ditzbitz.com/powertower.html",
             "tags": [3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/towers1.png"
         },
         {
             "bitzId": "55",
@@ -1374,7 +1356,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings, and freeform.",
             "urltogame": "http://ditzbitz.com/powertowerx.html",
             "tags": [3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/towersf1.png"
         },
         {
             "bitzId": "56",
@@ -1383,16 +1365,16 @@ STATE = {
             "description": "Colonize the galaxy, fight for the supremacy of your species!",
             "urltogame": "http://ditzbitz.com/sagitarius.html",
             "tags": [1,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/king1.png"
         },
         {
             "bitzId": "57",
             "name": "BlastyBoxes",
             "game": true,
             "description": "Do the math, disarm the bomb!",
-            "urltogame": "http://ditzbitz.com/sagitarius.html",
+            "urltogame": "http://ditzbitz.com/muse.html",
             "tags": [5,7,8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/blastyboxes1.png"
         },
         {
             "bitzId": "58",
@@ -1401,7 +1383,7 @@ STATE = {
             "description": "Select the box, move the ball, violate inertia!",
             "urltogame": "http://ditzbitz.com/boxsteer.html",
             "tags": [0,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boxsteer1.png"
         },
         {
             "bitzId": "59",
@@ -1410,7 +1392,7 @@ STATE = {
             "description": "Collect the boxes, swoop the ball.",
             "urltogame": "http://ditzbitz.com/swoop.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/swoop1.png"
         },
         {
             "bitzId": "60",
@@ -1419,7 +1401,7 @@ STATE = {
             "description": "Protect yourself with deadly force.",
             "urltogame": "http://ditzbitz.com/blastyballs.html",
             "tags": [1,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/blastyballs1.png"
         },
         {
             "bitzId": "61",
@@ -1428,7 +1410,7 @@ STATE = {
             "description": "Protect yourself with deadly force, but in a dungeon.",
             "urltogame": "http://ditzbitz.com/crawler.html",
             "tags": [1,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/crawler1.png"
         },
         {
             "bitzId": "62",
@@ -1437,16 +1419,16 @@ STATE = {
             "description": "Solar-powered platforming.",
             "urltogame": "http://ditzbitz.com/curveshot.html",
             "tags": [0, 9],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boggy1.png"
         },
         {
             "bitzId": "62",
-            "name": "Saiiling Skylinea",
+            "name": "Saiiling Skylines",
             "game": true,
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
             "tags": [2,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/sailing1.png"
         },
         {
             "bitzId": "63",
@@ -1454,8 +1436,8 @@ STATE = {
             "game": true,
             "description": "Math-powered thinkforming.",
             "urltogame": "http://ditzbitz.com/box.html",
-            "tags": [2,3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "tags": [8],
+            "imgsrc": "http://ditzbitz.com/beatbox1.png"
         },
         // {
         //     "bitzId": "64",
@@ -1473,7 +1455,7 @@ STATE = {
             "description": "Shape-shiting action RPG.",
             "urltogame": "http://ditzbitz.com/dancer.html",
             "tags": [2,3,4,5],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/dancer1.png"
         },
         {
             "bitzId": "66",
@@ -1482,7 +1464,7 @@ STATE = {
             "description": "Breed patterns.",
             "urltogame": "http://ditzbitz.com/tempus.html",
             "tags": [1, 10],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/octobreeder1.png"
         },
         {
             "bitzId": "67",
@@ -1491,7 +1473,7 @@ STATE = {
             "description": "Ray casting.",
             "urltogame": "http://ditzbitz.com/rays.html",
             "tags": [1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rays1.png"
         },
         {
             "bitzId": "68",
