@@ -400,7 +400,7 @@ STATE = {
             "description": "Navigate the world as a snake-woman.",
             "urltogame": "http://ditzbitz.com/slither.html",
             "tags": [2,4, 9],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/vipress1.png"
         },
         {
             "bitzId": "45",
@@ -409,7 +409,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/felldown.html",
             "tags": [0,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/felldown1.png"
         },
         {
             "bitzId": "46",
@@ -418,7 +418,7 @@ STATE = {
             "description": "Use all of your wits and fingers to controll the runner.",
             "urltogame": "http://ditzbitz.com/rainbowrunner.html",
             "tags": [0,1],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rainbowrunner1.png"
         },
         {
             "bitzId": "47",
@@ -1275,7 +1275,7 @@ STATE = {
             "description": "Navigate the world as a snake-woman.",
             "urltogame": "http://ditzbitz.com/slither.html",
             "tags": [2,4, 9],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/vipress1.png"
         },
         {
             "bitzId": "45",
@@ -1284,7 +1284,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/felldown.html",
             "tags": [0,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/felldown1.png"
         },
         {
             "bitzId": "46",
@@ -1293,7 +1293,7 @@ STATE = {
             "description": "Use all of your wits and fingers to controll the runner.",
             "urltogame": "http://ditzbitz.com/rainbowrunner.html",
             "tags": [0,1],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rainbowrunner1.png"
         },
         {
             "bitzId": "47",
