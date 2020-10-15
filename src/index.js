@@ -2,49 +2,49 @@ STATE = {
     bitz: [
         {
         "bitzId": "1",
-        "name": "Game 1",
+        "name": "a",
         "game": true,
         "tags": [1,2,3]
         },
         {
         "bitzId": "2",
-        "name": "Trinket 1",
+        "name": "b",
         "game": false,
         "tags": [5]
         },
         {
         "bitzId": "3",
-        "name": "Trinket 2",
+        "name": "c",
         "game": false,
         "tags": [2,4]
         },
         {
         "bitzId": "4",
-        "name": "Game2",
+        "name": "d",
         "game": true,
         "tags": [1,3,5]
         },
         {
         "bitzId": "5",
-        "name": "Game 3",
+        "name": "e",
         "game": true,
         "tags": [2,4,5]
         },
         {
         "bitzId": "6",
-        "name": "Game 4",
+        "name": "f",
         "game": true,
         "tags": [1,2,3,4,5]
         },
         {
         "bitzId": "7",
-        "name": "Trinket 3",
+        "name": "g",
         "game": false,
         "tags": [3,4]
         },
         {
         "bitzId": "8",
-        "name": "Game 5",
+        "name": "h",
         "game": true,
         "tags": [1,4,5]
         }
@@ -52,49 +52,49 @@ STATE = {
     displayBitz: [
         {
             "bitzId": "1",
-            "name": "Game 1",
+            "name": "gfa",
             "game": true,
             "tags": [1,2,3]
             },
             {
             "bitzId": "2",
-            "name": "Trinket 1",
+            "name": "bag",
             "game": false,
             "tags": [5]
             },
             {
             "bitzId": "3",
-            "name": "Trinket 2",
+            "name": "jag",
             "game": false,
             "tags": [2,4]
             },
             {
             "bitzId": "4",
-            "name": "Game2",
+            "name": "qag",
             "game": true,
             "tags": [1,3,5]
             },
             {
             "bitzId": "5",
-            "name": "Game 3",
+            "name": "oag",
             "game": true,
             "tags": [2,4,5]
             },
             {
             "bitzId": "6",
-            "name": "Game 4",
+            "name": "fog",
             "game": true,
             "tags": [1,2,3,4,5]
             },
             {
             "bitzId": "7",
-            "name": "Trinket 3",
+            "name": "gaf",
             "game": false,
             "tags": [3,4]
             },
             {
             "bitzId": "8",
-            "name": "Game 5",
+            "name": "hag",
             "game": true,
             "tags": [1,4,5]
             }
@@ -107,16 +107,42 @@ STATE = {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-    let alph = document.getElementById("alph")
-    let newest = document.getElementById("new")
-    let oldest = document.getElementById("old")
-    let all = document.getElementById("all")
-    let games = document.getElementById("games")
-    let trinkets = document.getElementById("trinkets")
-    let one = document.getElementById("1")
-    let two = document.getElementById("2")
-    let three = document.getElementById("3")
-    let four = document.getElementById("4")
-    let five = document.getElementById("5")
+    document.getElementById("alph").addEventListener("click", changeSort)
+    document.getElementById("new").addEventListener("click", changeSort)
+    document.getElementById("old").addEventListener("click", changeSort)
+    document.getElementById("all").addEventListener("click", changeFilterType)
+    document.getElementById("games").addEventListener("click", changeFilterType)
+    document.getElementById("trinkets").addEventListener("click", changeFilterType)
+    document.getElementById("1").addEventListener("click", changeFilterTag)
+    document.getElementById("2").addEventListener("click", changeFilterTag)
+    document.getElementById("3").addEventListener("click", changeFilterTag)
+    document.getElementById("4").addEventListener("click", changeFilterTag)
+    document.getElementById("5").addEventListener("click", changeFilterTag)
+    
+    console.log(STATE.displayBitz)
 })
 
+const changeSort = e => {
+    const sortStyle = e.target.text
+    console.log(sortStyle)
+    let displayBitz = STATE.displayBitz
+    if (sortStyle == "Alphabetically") {
+        displayBitz.sort((bitz1, bitz2) => bitz1.name > bitz2.name ? 1 : -1)
+    } else if (sortStyle == "Oldest") {
+        displayBitz.sort((bitz1, bitz2) => bitz1.bitzId > bitz2.bitzId ? 1 : -1)
+    } else if (sortStyle == "Newest") {
+        displayBitz.sort((bitz1, bitz2) => bitz1.bitzId < bitz2.bitzId ? 1 : -1)
+    } else {
+        displayBitz.sort((bitz1, bitz2) => bitz1.bitzId < bitz2.bitzId ? 1 : -1)
+    }
+    STATE.displayBitz = displayBitz
+    console.log(STATE.displayBitz)
+}
+
+const changeFilterType = e => {
+    STATE.filterType = e.target.text
+}
+
+const changeFilterTag = e => {
+    STATE.filterTag = e.target.text
+}
