@@ -3,7 +3,10 @@
   <head>
     <title>DitzBitz</title>
     <script src="./src/index.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+    <script src="./src/bitz.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>    
     <style type="text/css">
         body {
           background-color: #00897b;
@@ -51,26 +54,22 @@
     </div>
 
     <div class="ui stackable three column grid" id="bitzgrid">
+
         <div class="ui special cards">
             <div class="card">
               <div class="blurring dimmable image">
                 <div class="ui inverted dimmer">
                   <div class="content">
                     <div class="center">
-                      <div class="ui primary button">Add Friend</div>
+                      <div class="ui primary button">Description</div>
                     </div>
                   </div>
                 </div>
                 <img src="https://pbs.twimg.com/media/EeIHdguVoAAfU5y?format=jpg&name=large">
               </div>
-              <div class="content">
-                <a class="header">Team Hess</a>
-                <div class="meta">
-                  <span class="date">Created in Aug 2014</span>
-                </div>
-              </div>
             </div>
         </div>
+
     </div>
     <script>
         $('.special.cards .image').dimmer({

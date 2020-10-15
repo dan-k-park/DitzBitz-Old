@@ -172,13 +172,6 @@ const makeBitzCards = () => {
     let grid = document.getElementById("bitzgrid")
 
     STATE.displayBitz.forEach(bitz => {
-        let card = new Card (bitz, grid)
-        let 
+        new Bitz(bitz)
     })
-
-    let div = document.createElement("div")
-    div.classList.add("column")
-    let text = document.createTextNode("test")
-    div.appendChild(text)
-    grid.appendChild(div)
 }
