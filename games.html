@@ -11,15 +11,6 @@
         body {
           background-color: #00897b;
         }
-        .ui.inverted.menu .moss.active.item,
-        .ui.inverted.moss.menu {
-        background-color: #004d3f;
-        font-size: 1.5rem;
-        }
-
-        .ui.dropdown {
-          font-size: 1.5rem;
-        }
 
         img {
             display: block;
@@ -35,6 +26,15 @@
           color: red;
         }
 
+        .ui.inverted.menu .moss.active.item,
+        .ui.inverted.moss.menu {
+        background-color: #004d3f;
+        font-size: 1.5rem;
+        }
+
+        .ui.dropdown {
+          font-size: 1.5rem;
+        }
         .card {
           height: 450px;
           padding-top: 500px;
@@ -50,6 +50,11 @@
         #ditzbitz-header {
           margin-left: 0;
         }
+
+        #filter-menu {
+          min-height: 500px!important;
+          min-width: 250px!important;
+        }
     </style>
   </head>
   <body>
@@ -61,7 +66,7 @@
         </div>
         <div class="ui simple scrolling dropdown item">
         Sort By <i class="dropdown icon"></i>
-        <div class="menu" style="right: 0;left: auto;">
+        <div class="menu" id="sort-menu" style="right: 0;left: auto;">
             <a class="item" id="alph">Alphabetically</a>
             <a class="item" id="new">Newest</a>
             <a class="item" id="old">Oldest</a>
@@ -69,7 +74,7 @@
         </div>
         <div class="ui simple scrolling dropdown item">
           Filter <i class="dropdown icon"></i>
-          <div class="menu" style="right: 0;left: auto;">
+          <div class="menu" id="filter-menu" style="right: 0;left: auto;">
             <div class="header">Type</div>
                 <a class="item" id="all">All</a>
                 <a class="item" id="games">Games</a>
