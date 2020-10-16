@@ -827,7 +827,7 @@ STATE = {
             "description": "Help Pomao get home, among other things.",
             "urltogame": "http://ditzbitz.com/pomao.html",
             "tags": [0,2,4,5,9],
-            "imgsrc":  "http://ditzbitz.com/pomao1.png"
+            "imgsrc": "src/assets/pomao1.png"
         },
         {
             "bitzId": "94",
@@ -874,7 +874,7 @@ STATE = {
             "description": "Moon-colonization and simple steering with physics.",
             "urltogame": "http://ditzbitz.com/moonshot.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/moonshot1.png"
+            "imgsrc": "src/assets/moonshot1.png"
         },
         {
             "bitzId": "3",
@@ -910,7 +910,7 @@ STATE = {
             "description": "A population dynamics simulation themed around Yeast!",
             "urltogame": "http://ditzbitz.com/yeasterealiac.html",
             "tags": [6, 10],
-            "imgsrc": "http://ditzbitz.com/yeastoids1.png"
+            "imgsrc": "src/assets/yeastoids1.png"
         },
         {
             "bitzId": "7",
@@ -1693,7 +1693,7 @@ STATE = {
             "description": "Help Pomao get home, among other things.",
             "urltogame": "http://ditzbitz.com/pomao.html",
             "tags": [0,2,4,5,9],
-            "imgsrc":  "http://ditzbitz.com/pomao1.png"
+            "imgsrc": "src/assets/pomao1.png"
         },
         {
             "bitzId": "94",
