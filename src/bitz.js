@@ -4,50 +4,56 @@ class Bitz {
         this.name = bitz.name,
         this.game = bitz.game,
         this.tags = bitz.tags,
-        this.img = "https://pbs.twimg.com/media/EeIHdguVoAAfU5y?format=jpg&name=large"
-        // this.url = bitz.urltogame,
-        // this.desc = bitz.description
+        this.img = bitz.imgsrc
+        this.url = bitz.urltogame,
+        this.desc = bitz.description
 
         this.makeTheCard()
     }
 
     makeTheCard = () => {
-        const specialCardDiv = document.createElement("div")
-        const cardDiv = document.createElement("div")
-        const dimmingImageDiv = document.createElement("div")
-        const dimmerDiv = document.createElement("div")
-        const contentDiv = document.createElement("div")
-        const centerDiv = document.createElement("div")
-        const descriptionDiv = document.createElement("div")
+        const card = document.createElement("div")
+        const content = document.createElement("div")
+        const link = document.createElement("a")
+        const header = document.createElement("div")
+        const desc = document.createElement("div")
+        const extraContent = document.createElement("div")
+        const span = document.createElement("span")
+        const imgDiv = document.createElement("div")
         const img = document.createElement("img")
+        const icon = document.createElement("i")
 
-        specialCardDiv.classList.add("ui")
-        specialCardDiv.classList.add("special")
-        specialCardDiv.classList.add("cards")
-        cardDiv.classList.add("card")
-        dimmingImageDiv.classList.add("blurring")
-        dimmingImageDiv.classList.add("dimmable")
-        dimmingImageDiv.classList.add("image")
-        dimmerDiv.classList.add("ui")
-        dimmerDiv.classList.add("inverted")
-        dimmerDiv.classList.add("dimmer")
-        dimmerDiv.classList.add("transition")
-        dimmerDiv.classList.add("hidden")
-        contentDiv.classList.add("content")
-        centerDiv.classList.add("center")
-        descriptionDiv.classList.add("ui")
-        descriptionDiv.classList.add("primary")
-        descriptionDiv.classList.add("button")
+        card.classList.add("ui")
+        card.classList.add("card")
+        content.classList.add("content")
+        header.classList.add("header")
+        extraContent.classList.add("extra")
+        extraContent.classList.add("content")
+        desc.classList.add("description")
+
+        if (this.game) {
+            icon.classList.add("gamepad")
+        } else {
+            icon.classList.add("cogs")
+        }
+        icon.classList.add("icon")
+
+        desc.innerText = this.desc
+        link.href = this.url
+        link.innerText = this.name
 
         img.src = this.img
-        centerDiv.appendChild(descriptionDiv)
-        contentDiv.appendChild(centerDiv)
-        dimmerDiv.appendChild(contentDiv)
-        dimmingImageDiv.appendChild(dimmerDiv)
-        dimmingImageDiv.appendChild(img)
-        cardDiv.appendChild(dimmingImageDiv)
-        specialCardDiv.appendChild(cardDiv)
-        document.getElementById("bitzgrid").appendChild(specialCardDiv)
+        extraContent.appendChild(span)
+        header.appendChild(link)
+        content.appendChild(header)
+        content.appendChild(desc)
+        imgDiv.appendChild(img)
+        card.appendChild(imgDiv)
+        card.appendChild(content)
+        span.appendChild(icon)
+        extraContent.appendChild(span)
+        card.appendChild(extraContent)
+        document.getElementById("bitzgrid").appendChild(card)
 
     }
 }
