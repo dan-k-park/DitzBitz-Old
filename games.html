@@ -2,7 +2,11 @@
 <html>
   <head>
     <title>DitzBitz</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+    <script src="./src/main.js"></script>
+    <script src="./src/bitz.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>    
     <style type="text/css">
         body {
           background-color: #00897b;
@@ -12,10 +16,18 @@
         background-color: #004d3f;
         }
         img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        a {
+          color: #008800;
+        }
+        
+        a:hover {
+          color: red;
+        }
     </style>
   </head>
   <body>
@@ -27,7 +39,7 @@
         </div>
         <div class="ui simple dropdown item">
         Sort By <i class="dropdown icon"></i>
-        <div class="menu">
+        <div class="menu" style="right: 0;left: auto;">
             <a class="item" id="alph">Alphabetically</a>
             <a class="item" id="new">Newest</a>
             <a class="item" id="old">Oldest</a>
@@ -35,14 +47,13 @@
         </div>
         <div class="ui simple dropdown item">
           Filter <i class="dropdown icon"></i>
-          <div class="menu">
+          <div class="menu" style="right: 0;left: auto;">
             <div class="header">Type</div>
                 <a class="item" id="all">All</a>
                 <a class="item" id="games">Games</a>
                 <a class="item" id="trinkets">Trinkets</a>
             <div class="divider"></div>
             <div class="header">Tags</div>
-            <!-- 0 = physics, 1 = pretty, 2 = sidescroller, 3  = strategy, 4 = action, 5 = survival 6 = simulation 7 = turn based 8 = math 9 = platformer 10 = evolution -->
                 <a class="item" id="0">Physics</a>
                 <a class="item" id="1">Pretty</a>
                 <a class="item" id="2">Scrolling</a>
@@ -60,35 +71,11 @@
     </div>
     </div>
     </div>
+    <div class="ui stackable three column grid">
+      <div class="ui link cards" id="bitzgrid">
 
-    <div class="ui stackable three column grid" id="bitzgrid">
-        <!-- <div class="ui special cards">
-            <div class="card">
-              <div class="blurring dimmable image">
-                <div class="ui inverted dimmer">
-                  <div class="content">
-                    <div class="center">
-                      <div class="ui primary button">Add Friend</div>
-                    </div>
-                  </div>
-                </div>
-                <img src="http://ditzbitz.com/placeholder.png">
-              </div>
-              <div class="content">
-                <a class="header">Team Hess</a>
-                <div class="meta">
-                  <span class="date">Created in Aug 2014</span>
-                </div>
-              </div>
-            </div>
-        </div> -->
+      </div>
     </div>
-    <script>
-        // $('.special.cards .image').dimmer({
-        // on: 'hover'
-        // });
-    </script>
-    <script src="./src/mainpage.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
   </body>

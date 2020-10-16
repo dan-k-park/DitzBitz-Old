@@ -1747,7 +1747,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("9").addEventListener("click", changeFilterTag)
     document.getElementById("10").addEventListener("click", changeFilterTag)
 
-    makeBitzCards()
+    makeBitzCards(STATE.displayBitz)
 })
 
 let changeSort = e => {
@@ -1795,7 +1795,15 @@ let changeFilterTag = e => {
 }
 
 const makeBitzCards = () => {   
+    clearBitzGrid()
     STATE.displayBitz.forEach(bitz => {
         new Bitz(bitz)
     })
+}
+
+const clearBitzGrid = () => {
+    let grid = document.getElementById("bitzgrid")
+    while (grid.firstChild) {
+        grid.removeChild(grid.firstChild)
+    }
 }
