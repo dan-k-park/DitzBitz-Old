@@ -1795,7 +1795,7 @@ let changeFilterTag = e => {
 }
 
 const makeBitzCards = () => {   
-    clearBitzGrid()
+    clearBitzGrid
     STATE.displayBitz.forEach(bitz => {
         new Bitz(bitz)
     })
