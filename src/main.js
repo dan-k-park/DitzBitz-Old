@@ -1,5 +1,5 @@
 STATE = {
-    bitz:  [
+    bitz: [
         {
             "bitzId": "1",
             "name": "Kessler's Cleanup",
@@ -8,7 +8,6 @@ STATE = {
             "urltogame": "http://ditzbitz.com/blaster.html",
             "tags": [4],
             "imgsrc": "src/assets/kessler1.png"
-            
         },
         {
             "bitzId": "2",
@@ -552,7 +551,7 @@ STATE = {
         },
         {
             "bitzId": "62",
-            "name": "Saiiling Skylines",
+            "name": "Sailing Skylines",
             "game": true,
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
@@ -569,7 +568,7 @@ STATE = {
             "imgsrc": "src/assets/beatbox1.png"
         },
         {
-            "bitzId": "64",
+            "bitzId": "65",
             "name": "Dancer",
             "game": true,
             "description": "Shape-shiting action RPG.",
@@ -857,7 +856,7 @@ STATE = {
             "imgsrc": "src/assets/meatgrinder1.png"
         }
     ],
-    displayBitz:  [
+    displayBitz: [
         {
             "bitzId": "1",
             "name": "Kessler's Cleanup",
@@ -1409,7 +1408,7 @@ STATE = {
         },
         {
             "bitzId": "62",
-            "name": "Saiiling Skylines",
+            "name": "Sailing Skylines",
             "game": true,
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
@@ -1425,15 +1424,6 @@ STATE = {
             "tags": [8],
             "imgsrc": "src/assets/beatbox1.png"
         },
-        // {
-        //     "bitzId": "64",
-        //     "name": "Dancer",
-        //     "game": true,
-        //     "description": "Shape-shiting action RPG.",
-        //     "urltogame": "http://ditzbitz.com/dancer.html",
-        //     "tags": [2,3,4,5],
-        //     "imgsrc": "src/assets/placeholder1.png"
-        // },
         {
             "bitzId": "65",
             "name": "Dancer",
@@ -1795,7 +1785,7 @@ let changeFilterTag = e => {
 }
 
 const makeBitzCards = () => {   
-    clearBitzGrid
+    clearBitzGrid()
     STATE.displayBitz.forEach(bitz => {
         new Bitz(bitz)
     })
