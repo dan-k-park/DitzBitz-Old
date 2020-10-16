@@ -616,7 +616,7 @@ STATE = {
             "description": "Ray carsting.",
             "urltogame": "http://ditzbitz.com/carray.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rayscar1.png"
         },
         {
             "bitzId": "69",
@@ -625,7 +625,7 @@ STATE = {
             "description": "Snake, but with gravity.",
             "urltogame": "http://ditzbitz.com/pitsnake.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/pitsnake1.png"
         },
         {
             "bitzId": "70",
@@ -634,7 +634,7 @@ STATE = {
             "description": "Rope, but with gravity.",
             "urltogame": "http://ditzbitz.com/springbase.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rope1.png"
         },
         {
             "bitzId": "71",
@@ -643,7 +643,7 @@ STATE = {
             "description": "Slime, but with gravity.",
             "urltogame": "http://ditzbitz.com/slime.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/structures1.png"
         },
         {
             "bitzId": "72",
@@ -652,7 +652,7 @@ STATE = {
             "description": "Build a happy city.",
             "urltogame": "http://ditzbitz.com/commoditycity.html",
             "tags": [6,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/city1.png"
         },
         {
             "bitzId": "73",
@@ -661,7 +661,7 @@ STATE = {
             "description": "Burn it all down.",
             "urltogame": "http://ditzbitz.com/fire.html",
             "tags": [1,4,0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/smokey1.png"
         },
         {
             "bitzId": "74",
@@ -670,7 +670,7 @@ STATE = {
             "description": "Squish fruits.",
             "urltogame": "http://ditzbitz.com/fruitsquish.html",
             "tags": [1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/fruitsquish1.png"
         },
         {
             "bitzId": "75",
@@ -679,7 +679,7 @@ STATE = {
             "description": "Film the exploding fireworks with your drone.",
             "urltogame": "http://ditzbitz.com/firedrone.html",
             "tags": [0,1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/dancing1.png"
         },
         {
             "bitzId": "76",
@@ -688,7 +688,7 @@ STATE = {
             "description": "Scroll through the ant-hill.",
             "urltogame": "http://ditzbitz.com/anteslope.html",
             "tags": [0,1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/anthill1.png"
         },
         {
             "bitzId": "77",
@@ -697,7 +697,7 @@ STATE = {
             "description": "Blast through the walls.",
             "urltogame": "http://ditzbitz.com/grenade.html",
             "tags": [0,4,2,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boom1.png"
         },
         {
             "bitzId": "78",
@@ -706,7 +706,7 @@ STATE = {
             "description": "An RPG with spell crafting. Beyond language.",
             "urltogame": "http://ditzbitz.com/O.html",
             "tags": [1,3,4,5,7,8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/o1.png"
         },
         {
             "bitzId": "79",
@@ -715,7 +715,7 @@ STATE = {
             "description": "Climb away from the lava!",
             "urltogame": "http://ditzbitz.com/grappler.html",
             "tags": [0,2,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/grappler1.png"
         },
         {
             "bitzId": "80",
@@ -724,7 +724,7 @@ STATE = {
             "description": "Fly out of the shaft!",
             "urltogame": "http://ditzbitz.com/autorise.html",
             "tags": [0, 4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/autorise1.png"
         },
         {
             "bitzId": "81",
@@ -733,7 +733,7 @@ STATE = {
             "description": "Crawl the sloth",
             "urltogame": "http://ditzbitz.com/sloth.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/sloth1.png"
         },
         {
             "bitzId": "82",
@@ -742,7 +742,7 @@ STATE = {
             "description": "Direct the sloth",
             "urltogame": "http://ditzbitz.com/sloth2.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/slothai1.png"
         },
         {
             "bitzId": "83",
@@ -751,7 +751,7 @@ STATE = {
             "description": "Direct the sloth to crawl",
             "urltogame": "http://ditzbitz.com/platformrpgoctopus.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/spidersloth1.png"
         },
         {
             "bitzId": "84",
@@ -760,7 +760,7 @@ STATE = {
             "description": "Direct the crew to control the ship",
             "urltogame": "http://ditzbitz.com/btl.html",
             "tags": [3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/btl1.png"
         },
         {
             "bitzId": "85",
@@ -769,7 +769,7 @@ STATE = {
             "description": "Watch the buggin frolic. You can feed them.",
             "urltogame": "http://ditzbitz.com/buggin.html",
             "tags": [6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/buggin1.png"
         },
         {
             "bitzId": "86",
@@ -778,7 +778,7 @@ STATE = {
             "description": "Watch the demons you summon be killed by your tower.",
             "urltogame": "http://ditzbitz.com/deathtower.html",
             "tags": [],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/death1.png"
         },
         {
             "bitzId": "87",
@@ -787,7 +787,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs.",
             "urltogame": "http://ditzbitz.com/manatee.html",
             "tags": [0,1,2,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/manatee1.png"
         },
         {
             "bitzId": "88",
@@ -796,7 +796,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs, but you're a donut.",
             "urltogame": "http://ditzbitz.com/manateed.html",
             "tags": [0,1,2,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/donutee1.png"
         },
         {
             "bitzId": "89",
@@ -805,7 +805,7 @@ STATE = {
             "description": "Leap freely but you're a banana.",
             "urltogame": "http://ditzbitz.com/anana.html",
             "tags": [],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/nanner1.png"
         },
         {
             "bitzId": "90",
@@ -814,7 +814,7 @@ STATE = {
             "description": "Knock over a stack of balls with a donut.",
             "urltogame": "http://ditzbitz.com/flinger.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/angry1.png"
         },
         {
             "bitzId": "91",
@@ -823,7 +823,7 @@ STATE = {
             "description": "Plants, animals, and their visual acuity evolve over time.",
             "urltogame": "http://ditzbitz.com/evoisland.html",
             "tags": [6, 10],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/island1.png"
         },
         {
             "bitzId": "92",
@@ -832,7 +832,7 @@ STATE = {
             "description": "Typing with a pleasant set of sounds.",
             "urltogame": "http://ditzbitz.com/typingtutor.html",
             "tags": [2],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/typing1.png"
         },
         {
             "bitzId": "93",
@@ -850,7 +850,7 @@ STATE = {
             "description": "Julia sets.",
             "urltogame": "http://ditzbitz.com/julia.html",
             "tags": [8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/julia1.png"
         },
         {
             "bitzId": "95",
@@ -859,7 +859,7 @@ STATE = {
             "description": "Catch and eat fish.",
             "urltogame": "http://ditzbitz.com/fiskerman.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/fiskerman1.png"
         },
         {
             "bitzId": "96",
@@ -868,7 +868,7 @@ STATE = {
             "description": "Grind up some meat.",
             "urltogame": "http://ditzbitz.com/meatgrinder.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/meatgrinder1.png"
         }
     ],
     displayBitz:  [
@@ -1482,7 +1482,7 @@ STATE = {
             "description": "Ray carsting.",
             "urltogame": "http://ditzbitz.com/carray.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rayscar1.png"
         },
         {
             "bitzId": "69",
@@ -1491,7 +1491,7 @@ STATE = {
             "description": "Snake, but with gravity.",
             "urltogame": "http://ditzbitz.com/pitsnake.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/pitsnake1.png"
         },
         {
             "bitzId": "70",
@@ -1500,7 +1500,7 @@ STATE = {
             "description": "Rope, but with gravity.",
             "urltogame": "http://ditzbitz.com/springbase.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/rope1.png"
         },
         {
             "bitzId": "71",
@@ -1509,7 +1509,7 @@ STATE = {
             "description": "Slime, but with gravity.",
             "urltogame": "http://ditzbitz.com/slime.html",
             "tags": [0,1,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/structures1.png"
         },
         {
             "bitzId": "72",
@@ -1518,7 +1518,7 @@ STATE = {
             "description": "Build a happy city.",
             "urltogame": "http://ditzbitz.com/commoditycity.html",
             "tags": [6,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/city1.png"
         },
         {
             "bitzId": "73",
@@ -1527,7 +1527,7 @@ STATE = {
             "description": "Burn it all down.",
             "urltogame": "http://ditzbitz.com/fire.html",
             "tags": [1,4,0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/smokey1.png"
         },
         {
             "bitzId": "74",
@@ -1536,7 +1536,7 @@ STATE = {
             "description": "Squish fruits.",
             "urltogame": "http://ditzbitz.com/fruitsquish.html",
             "tags": [1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/fruitsquish1.png"
         },
         {
             "bitzId": "75",
@@ -1545,7 +1545,7 @@ STATE = {
             "description": "Film the exploding fireworks with your drone.",
             "urltogame": "http://ditzbitz.com/firedrone.html",
             "tags": [0,1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/dancing1.png"
         },
         {
             "bitzId": "76",
@@ -1554,7 +1554,7 @@ STATE = {
             "description": "Scroll through the ant-hill.",
             "urltogame": "http://ditzbitz.com/anteslope.html",
             "tags": [0,1,7,3],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/anthill1.png"
         },
         {
             "bitzId": "77",
@@ -1563,7 +1563,7 @@ STATE = {
             "description": "Blast through the walls.",
             "urltogame": "http://ditzbitz.com/grenade.html",
             "tags": [0,4,2,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/boom1.png"
         },
         {
             "bitzId": "78",
@@ -1572,7 +1572,7 @@ STATE = {
             "description": "An RPG with spell crafting. Beyond language.",
             "urltogame": "http://ditzbitz.com/O.html",
             "tags": [1,3,4,5,7,8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/o1.png"
         },
         {
             "bitzId": "79",
@@ -1581,7 +1581,7 @@ STATE = {
             "description": "Climb away from the lava!",
             "urltogame": "http://ditzbitz.com/grappler.html",
             "tags": [0,2,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/grappler1.png"
         },
         {
             "bitzId": "80",
@@ -1590,7 +1590,7 @@ STATE = {
             "description": "Fly out of the shaft!",
             "urltogame": "http://ditzbitz.com/autorise.html",
             "tags": [0, 4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/autorise1.png"
         },
         {
             "bitzId": "81",
@@ -1599,7 +1599,7 @@ STATE = {
             "description": "Crawl the sloth",
             "urltogame": "http://ditzbitz.com/sloth.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/sloth1.png"
         },
         {
             "bitzId": "82",
@@ -1608,7 +1608,7 @@ STATE = {
             "description": "Direct the sloth",
             "urltogame": "http://ditzbitz.com/sloth2.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/slothai1.png"
         },
         {
             "bitzId": "83",
@@ -1617,7 +1617,7 @@ STATE = {
             "description": "Direct the sloth to crawl",
             "urltogame": "http://ditzbitz.com/platformrpgoctopus.html",
             "tags": [0,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/spidersloth1.png"
         },
         {
             "bitzId": "84",
@@ -1626,7 +1626,7 @@ STATE = {
             "description": "Direct the crew to control the ship",
             "urltogame": "http://ditzbitz.com/btl.html",
             "tags": [3,4,5,6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/btl1.png"
         },
         {
             "bitzId": "85",
@@ -1635,7 +1635,7 @@ STATE = {
             "description": "Watch the buggin frolic. You can feed them.",
             "urltogame": "http://ditzbitz.com/buggin.html",
             "tags": [6],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/buggin1.png"
         },
         {
             "bitzId": "86",
@@ -1644,7 +1644,7 @@ STATE = {
             "description": "Watch the demons you summon be killed by your tower.",
             "urltogame": "http://ditzbitz.com/deathtower.html",
             "tags": [],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/death1.png"
         },
         {
             "bitzId": "87",
@@ -1653,7 +1653,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs.",
             "urltogame": "http://ditzbitz.com/manatee.html",
             "tags": [0,1,2,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/manatee1.png"
         },
         {
             "bitzId": "88",
@@ -1662,7 +1662,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs, but you're a donut.",
             "urltogame": "http://ditzbitz.com/manateed.html",
             "tags": [0,1,2,4],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/donutee1.png"
         },
         {
             "bitzId": "89",
@@ -1671,7 +1671,7 @@ STATE = {
             "description": "Leap freely but you're a banana.",
             "urltogame": "http://ditzbitz.com/anana.html",
             "tags": [],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/nanner1.png"
         },
         {
             "bitzId": "90",
@@ -1680,7 +1680,7 @@ STATE = {
             "description": "Knock over a stack of balls with a donut.",
             "urltogame": "http://ditzbitz.com/flinger.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/angry1.png"
         },
         {
             "bitzId": "91",
@@ -1689,7 +1689,7 @@ STATE = {
             "description": "Plants, animals, and their visual acuity evolve over time.",
             "urltogame": "http://ditzbitz.com/evoisland.html",
             "tags": [6, 10],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/island1.png"
         },
         {
             "bitzId": "92",
@@ -1698,7 +1698,7 @@ STATE = {
             "description": "Typing with a pleasant set of sounds.",
             "urltogame": "http://ditzbitz.com/typingtutor.html",
             "tags": [2],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/typing1.png"
         },
         {
             "bitzId": "93",
@@ -1716,7 +1716,7 @@ STATE = {
             "description": "Julia sets.",
             "urltogame": "http://ditzbitz.com/julia.html",
             "tags": [8],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/julia1.png"
         },
         {
             "bitzId": "95",
@@ -1725,7 +1725,7 @@ STATE = {
             "description": "Catch and eat fish.",
             "urltogame": "http://ditzbitz.com/fiskerman.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/fiskerman1.png"
         },
         {
             "bitzId": "96",
@@ -1734,7 +1734,7 @@ STATE = {
             "description": "Grind up some meat.",
             "urltogame": "http://ditzbitz.com/meatgrinder.html",
             "tags": [0],
-            "imgsrc": "http://ditzbitz.com/placeholder1.png"
+            "imgsrc": "http://ditzbitz.com/meatgrinder1.png"
         }
     ],
     filterType: "All",
