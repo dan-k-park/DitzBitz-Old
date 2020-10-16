@@ -4,9 +4,9 @@ class Bitz {
         this.name = bitz.name,
         this.game = bitz.game,
         this.tags = bitz.tags,
-        this.img = "https://pbs.twimg.com/media/EeIHdguVoAAfU5y?format=jpg&name=large"
-        // this.url = bitz.urltogame,
-        // this.desc = bitz.description
+        this.img = bitz.imgsrc
+        this.url = bitz.urltogame,
+        this.desc = bitz.description
 
         this.makeTheCard()
     }
@@ -40,6 +40,7 @@ class Bitz {
         descriptionDiv.classList.add("button")
 
         img.src = this.img
+        console.log(this.img)
         centerDiv.appendChild(descriptionDiv)
         contentDiv.appendChild(centerDiv)
         dimmerDiv.appendChild(contentDiv)

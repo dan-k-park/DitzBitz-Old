@@ -2,7 +2,11 @@
 <html>
   <head>
     <title>DitzBitz</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+    <script src="./src/main.js"></script>
+    <script src="./src/bitz.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>    
     <style type="text/css">
         body {
           background-color: #00897b;
@@ -11,11 +15,6 @@
         .ui.inverted.moss.menu {
         background-color: #004d3f;
         }
-        img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
     </style>
   </head>
   <body>
@@ -42,7 +41,6 @@
                 <a class="item" id="trinkets">Trinkets</a>
             <div class="divider"></div>
             <div class="header">Tags</div>
-            <!-- 0 = physics, 1 = pretty, 2 = sidescroller, 3  = strategy, 4 = action, 5 = survival 6 = simulation 7 = turn based 8 = math 9 = platformer 10 = evolution -->
                 <a class="item" id="0">Physics</a>
                 <a class="item" id="1">Pretty</a>
                 <a class="item" id="2">Scrolling</a>
@@ -60,15 +58,8 @@
     </div>
     </div>
     </div>
-
     <div class="ui stackable three column grid" id="bitzgrid">
     </div>
-    <script>
-        // $('.special.cards .image').dimmer({
-        // on: 'hover'
-        // });
-    </script>
-    <script src="mainpage.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
   </body>
