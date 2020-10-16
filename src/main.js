@@ -7,7 +7,7 @@ STATE = {
             "description": "A snake-asteroids game, click and steer at the same time to help captain Kessler clean up the asteroid!",
             "urltogame": "http://ditzbitz.com/blaster.html",
             "tags": [4],
-            "imgsrc": "src/assets/kessler1.png"
+            "imgsrc": "assets/kessler1.png"
         },
         {
             "bitzId": "2",
@@ -16,7 +16,7 @@ STATE = {
             "description": "Moon-colonization and simple steering with physics.",
             "urltogame": "http://ditzbitz.com/moonshot.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/moonshot1.png"
+            "imgsrc": "assets/moonshot1.png"
         },
         {
             "bitzId": "3",
@@ -25,7 +25,7 @@ STATE = {
             "description": "A simple endless runner.",
             "urltogame": "http://ditzbitz.com/rollout.html",
             "tags": [4, 2],
-            "imgsrc": "src/assets/rollout1.png"
+            "imgsrc": "assets/rollout1.png"
         },
         {
             "bitzId": "4",
@@ -34,7 +34,7 @@ STATE = {
             "description": "A rock-paper-scissors population dynamics simulation themed around Bacteria!",
             "urltogame": "http://ditzbitz.com/bacterioids.html",
             "tags": [6],
-            "imgsrc": "src/assets/bacteroids1.png"
+            "imgsrc": "assets/bacteroids1.png"
         },
         {
             "bitzId": "5",
@@ -43,7 +43,7 @@ STATE = {
             "description": "A population dynamics simulation themed around Archeans!",
             "urltogame": "http://ditzbitz.com/animal.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/archeanoids1.png"
+            "imgsrc": "assets/archeanoids1.png"
         },
         {
             "bitzId": "6",
@@ -52,7 +52,7 @@ STATE = {
             "description": "A population dynamics simulation themed around Yeast!",
             "urltogame": "http://ditzbitz.com/yeasterealiac.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/yeastoids1.png"
+            "imgsrc": "assets/yeastoids1.png"
         },
         {
             "bitzId": "7",
@@ -61,7 +61,7 @@ STATE = {
             "description": "Break the bricks, steer the ball.",
             "urltogame": "http://ditzbitz.com/zarkavoids.html",
             "tags": [0],
-            "imgsrc": "src/assets/zarkavoids1.png"
+            "imgsrc": "assets/zarkavoids1.png"
         },
         {
             "bitzId": "8",
@@ -70,7 +70,7 @@ STATE = {
             "description": "Fall freely, but not for very long.",
             "urltogame": "http://ditzbitz.com/platforms.html",
             "tags": [],
-            "imgsrc": "src/assets/platform1.png"
+            "imgsrc": "assets/platform1.png"
         },
         {
             "bitzId": "9",
@@ -79,7 +79,7 @@ STATE = {
             "description": "Consume small white balls, stick to large blue walls.",
             "urltogame": "http://ditzbitz.com/katamaracman.html",
             "tags": [6],
-            "imgsrc": "src/assets/kat1.png"
+            "imgsrc": "assets/kat1.png"
         },
         {
             "bitzId": "10",
@@ -88,7 +88,7 @@ STATE = {
             "description": "Watch and guide the charged particles as they orbit.",
             "urltogame": "http://ditzbitz.com/magneato.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/mag1.png"
+            "imgsrc": "assets/mag1.png"
         },
         {
             "bitzId": "11",
@@ -97,7 +97,7 @@ STATE = {
             "description": "Adjust the explosion as you like.",
             "urltogame": "http://ditzbitz.com/firework.html",
             "tags": [1, 6],
-            "imgsrc": "src/assets/firework1.png"
+            "imgsrc": "assets/firework1.png"
         },
         {
             "bitzId": "12",
@@ -106,7 +106,7 @@ STATE = {
             "description": "Test how good you are at clicking.",
             "urltogame": "http://ditzbitz.com/boxclick.html",
             "tags": [],
-            "imgsrc": "src/assets/boxclick1.png"
+            "imgsrc": "assets/boxclick1.png"
         },
         {
             "bitzId": "13",
@@ -115,7 +115,7 @@ STATE = {
             "description": "Its an idle clicking income generation game.",
             "urltogame": "http://ditzbitz.com/simonclicks.html",
             "tags": [],
-            "imgsrc": "src/assets/simon1.png"
+            "imgsrc": "assets/simon1.png"
         },
         {
             "bitzId": "14",
@@ -124,7 +124,7 @@ STATE = {
             "description": "Click and drag the bouyant masses around the pool of water.",
             "urltogame": "http://ditzbitz.com/yeahbuoy.html",
             "tags": [0,6,1],
-            "imgsrc": "src/assets/buoy1.png"
+            "imgsrc": "assets/buoy1.png"
         },
         {
             "bitzId": "15",
@@ -133,7 +133,7 @@ STATE = {
             "description": "Click to steer your sheep-dog, scare the sheep into a bottomless pit.",
             "urltogame": "http://ditzbitz.com/sheephole.html",
             "tags": [0],
-            "imgsrc": "src/assets/sheephole1.png"
+            "imgsrc": "assets/sheephole1.png"
         },
         {
             "bitzId": "16",
@@ -142,7 +142,7 @@ STATE = {
             "description": "Help captain Kessler return to earth.",
             "urltogame": "http://ditzbitz.com/crashdown.html",
             "tags": [6],
-            "imgsrc": "src/assets/kesslercomedown1.png"
+            "imgsrc": "assets/kesslercomedown1.png"
         },
         {
             "bitzId": "17",
@@ -151,7 +151,7 @@ STATE = {
             "description": "Just a pleasant rippling pattern.",
             "urltogame": "http://ditzbitz.com/rippler.html",
             "tags": [1],
-            "imgsrc": "src/assets/rippler1.png"
+            "imgsrc": "assets/rippler1.png"
         },
         {
             "bitzId": "18",
@@ -160,7 +160,7 @@ STATE = {
             "description": "Watch the gas compress and decompress.",
             "urltogame": "http://ditzbitz.com/duster.html",
             "tags": [1,6,0],
-            "imgsrc": "src/assets/gascompressor1.png"
+            "imgsrc": "assets/gascompressor1.png"
         },
         {
             "bitzId": "19",
@@ -169,7 +169,7 @@ STATE = {
             "description": "Gears making connections.",
             "urltogame": "http://ditzbitz.com/cognito.html",
             "tags": [1,6,0],
-            "imgsrc": "src/assets/cognito1.png"
+            "imgsrc": "assets/cognito1.png"
         },
         {
             "bitzId": "20",
@@ -178,7 +178,7 @@ STATE = {
             "description": "A Barnsley fern generator.",
             "urltogame": "http://ditzbitz.com/makelikeatree.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/tree1.png"
+            "imgsrc": "assets/tree1.png"
         },
         {
             "bitzId": "21",
@@ -187,7 +187,7 @@ STATE = {
             "description": "A rainbow spinner.",
             "urltogame": "http://ditzbitz.com/spirotron.html",
             "tags": [1],
-            "imgsrc": "src/assets/rainbow1.png"
+            "imgsrc": "assets/rainbow1.png"
         },
         {
             "bitzId": "22",
@@ -196,7 +196,7 @@ STATE = {
             "description": "A waveform toy.",
             "urltogame": "http://ditzbitz.com/waves.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/waves1.png"
+            "imgsrc": "assets/waves1.png"
         },
         {
             "bitzId": "23",
@@ -205,7 +205,7 @@ STATE = {
             "description": "Space golf",
             "urltogame": "http://ditzbitz.com/garbogolf.html",
             "tags": [0],
-            "imgsrc": "src/assets/garbo1.png"
+            "imgsrc": "assets/garbo1.png"
         },
         {
             "bitzId": "24",
@@ -214,7 +214,7 @@ STATE = {
             "description": "Pick fruit.",
             "urltogame": "http://ditzbitz.com/fruitpicker.html",
             "tags": [6],
-            "imgsrc": "src/assets/fruitpicker1.png"
+            "imgsrc": "assets/fruitpicker1.png"
         },
         {
             "bitzId": "25",
@@ -223,7 +223,7 @@ STATE = {
             "description": "A very basic facsimile of a MOBA game.",
             "urltogame": "http://ditzbitz.com/autocheckers.html",
             "tags": [6,3,4],
-            "imgsrc": "src/assets/moba1.png"
+            "imgsrc": "assets/moba1.png"
         },
         {
             "bitzId": "26",
@@ -232,7 +232,7 @@ STATE = {
             "description": "A very bad word toy.",
             "urltogame": "http://ditzbitz.com/words.html",
             "tags": [],
-            "imgsrc": "src/assets/words1.png"
+            "imgsrc": "assets/words1.png"
         },
         {
             "bitzId": "27",
@@ -241,7 +241,7 @@ STATE = {
             "description": "A gradient making toy.",
             "urltogame": "http://ditzbitz.com/gradient.html",
             "tags": [1],
-            "imgsrc": "src/assets/gradient1.png"
+            "imgsrc": "assets/gradient1.png"
         },
         {
             "bitzId": "28",
@@ -250,7 +250,7 @@ STATE = {
             "description": "Play with the conspiracy webtoy.",
             "urltogame": "http://ditzbitz.com/conspiratron.html",
             "tags": [1],
-            "imgsrc": "src/assets/conspiratron1.png"
+            "imgsrc": "assets/conspiratron1.png"
         },
         {
             "bitzId": "29",
@@ -259,7 +259,7 @@ STATE = {
             "description": "Play with the worm webtoy.",
             "urltogame": "http://ditzbitz.com/wormer.html",
             "tags": [],
-            "imgsrc": "src/assets/wormer1.png"
+            "imgsrc": "assets/wormer1.png"
         },
         {
             "bitzId": "30",
@@ -268,7 +268,7 @@ STATE = {
             "description": "Watch the drops fall.",
             "urltogame": "http://ditzbitz.com/drops.html",
             "tags": [],
-            "imgsrc": "src/assets/drip1.png"
+            "imgsrc": "assets/drip1.png"
         },
         {
             "bitzId": "31",
@@ -277,7 +277,7 @@ STATE = {
             "description": "Watch the bloom spin.",
             "urltogame": "http://ditzbitz.com/recurse.html",
             "tags": [1],
-            "imgsrc": "src/assets/bloomer1.png"
+            "imgsrc": "assets/bloomer1.png"
         },
         {
             "bitzId": "32",
@@ -286,7 +286,7 @@ STATE = {
             "description": "Race your friend!",
             "urltogame": "http://ditzbitz.com/safetyrace.html",
             "tags": [4],
-            "imgsrc": "src/assets/lapjam1.png"
+            "imgsrc": "assets/lapjam1.png"
         },
         {
             "bitzId": "33",
@@ -295,7 +295,7 @@ STATE = {
             "description": "Blast the flying grids to smithereens!",
             "urltogame": "http://ditzbitz.com/digzone.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/digzone1.png"
+            "imgsrc": "assets/digzone1.png"
         },
         {
             "bitzId": "34",
@@ -304,7 +304,7 @@ STATE = {
             "description": "Collect the dots with your body.",
             "urltogame": "http://ditzbitz.com/dongodongo.html",
             "tags": [1],
-            "imgsrc": "src/assets/dongodongo1.png"
+            "imgsrc": "assets/dongodongo1.png"
         },
         {
             "bitzId": "35",
@@ -313,7 +313,7 @@ STATE = {
             "description": "Stack blocks and jump around.",
             "urltogame": "http://ditzbitz.com/stackzone.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/stackzone1.png"
+            "imgsrc": "assets/stackzone1.png"
         },
         {
             "bitzId": "36",
@@ -322,7 +322,7 @@ STATE = {
             "description": "Defend your young, keep the ocean clean!",
             "urltogame": "http://ditzbitz.com/corona.html",
             "tags": [0,1,4,5,6],
-            "imgsrc": "src/assets/knocktapus1.png"
+            "imgsrc": "assets/knocktapus1.png"
         },
         {
             "bitzId": "37",
@@ -331,7 +331,7 @@ STATE = {
             "description": "Ping!",
             "urltogame": "http://ditzbitz.com/pang.html",
             "tags": [],
-            "imgsrc": "src/assets/pang1.png"
+            "imgsrc": "assets/pang1.png"
         },
         {
             "bitzId": "38",
@@ -340,7 +340,7 @@ STATE = {
             "description": "Prevent the survival of everyone but the red dot.",
             "urltogame": "http://ditzbitz.com/bullyball.html",
             "tags": [4],
-            "imgsrc": "src/assets/bullball1.png"
+            "imgsrc": "assets/bullball1.png"
         },
         {
             "bitzId": "39",
@@ -349,7 +349,7 @@ STATE = {
             "description": "Literally running in circles.",
             "urltogame": "http://ditzbitz.com/circlerunner.html",
             "tags": [2],
-            "imgsrc": "src/assets/roundbound1.png"
+            "imgsrc": "assets/roundbound1.png"
         },
         {
             "bitzId": "40",
@@ -358,7 +358,7 @@ STATE = {
             "description": "A loud space shooter with a tractor beam.",
             "urltogame": "http://ditzbitz.com/tractor.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/tractorscam1.png"
+            "imgsrc": "assets/tractorscam1.png"
         },
         {
             "bitzId": "41",
@@ -367,7 +367,7 @@ STATE = {
             "description": "A platforming adventure in a graph.",
             "urltogame": "http://ditzbitz.com/grap.html",
             "tags": [0,2, 9],
-            "imgsrc": "src/assets/graphics1.png"
+            "imgsrc": "assets/graphics1.png"
         },
         {
             "bitzId": "42",
@@ -376,7 +376,7 @@ STATE = {
             "description": "A deck-building math-strategy card-combat RPG.",
             "urltogame": "http://ditzbitz.com/trigtrials.html",
             "tags": [3,1,5, 8],
-            "imgsrc": "src/assets/trigtrials1.png"
+            "imgsrc": "assets/trigtrials1.png"
         },
         {
             "bitzId": "43",
@@ -385,7 +385,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/wigglewall.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/wigglewall1.png"
+            "imgsrc": "assets/wigglewall1.png"
         },
         {
             "bitzId": "44",
@@ -394,7 +394,7 @@ STATE = {
             "description": "Navigate the world as a snake-woman.",
             "urltogame": "http://ditzbitz.com/slither.html",
             "tags": [2,4, 9],
-            "imgsrc": "src/assets/vipress1.png"
+            "imgsrc": "assets/vipress1.png"
         },
         {
             "bitzId": "45",
@@ -403,7 +403,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/felldown.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/felldown1.png"
+            "imgsrc": "assets/felldown1.png"
         },
         {
             "bitzId": "46",
@@ -412,7 +412,7 @@ STATE = {
             "description": "Use all of your wits and fingers to controll the runner.",
             "urltogame": "http://ditzbitz.com/rainbowrunner.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/rainbowrunner1.png"
+            "imgsrc": "assets/rainbowrunner1.png"
         },
         {
             "bitzId": "47",
@@ -421,7 +421,7 @@ STATE = {
             "description": "Hop the dot through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinder.html",
             "tags": [0],
-            "imgsrc": "src/assets/hoppy1.png"
+            "imgsrc": "assets/hoppy1.png"
         },
         {
             "bitzId": "48",
@@ -430,7 +430,7 @@ STATE = {
             "description": "Hop the donut through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinderd.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/hopdonut1.png"
+            "imgsrc": "assets/hopdonut1.png"
         },
         {
             "bitzId": "49",
@@ -439,7 +439,7 @@ STATE = {
             "description": "Manipulate the fungal evolution.",
             "urltogame": "http://ditzbitz.com/bungi.html",
             "tags": [1, 6, 10 ],
-            "imgsrc": "src/assets/bungi1.png"
+            "imgsrc": "assets/bungi1.png"
         },
         {
             "bitzId": "50",
@@ -448,7 +448,7 @@ STATE = {
             "description": "Play this fairly typical resource-management turn-based RPG.",
             "urltogame": "http://ditzbitz.com/beatnik.html",
             "tags": [7, 3, 5, 8],
-            "imgsrc": "src/assets/beatnik1.png"
+            "imgsrc": "assets/beatnik1.png"
         },
         {
             "bitzId": "52",
@@ -457,7 +457,7 @@ STATE = {
             "description": "A pandemic simulation.",
             "urltogame": "http://ditzbitz.com/spop.html",
             "tags": [1, 6],
-            "imgsrc": "src/assets/spop1.png"
+            "imgsrc": "assets/spop1.png"
         },
         {
             "bitzId": "53",
@@ -466,7 +466,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home.",
             "urltogame": "http://ditzbitz.com/recoil.html",
             "tags": [4],
-            "imgsrc": "src/assets/laserscroller1.png"
+            "imgsrc": "assets/laserscroller1.png"
         },
         {
             "bitzId": "54",
@@ -475,7 +475,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings.",
             "urltogame": "http://ditzbitz.com/powertower.html",
             "tags": [3],
-            "imgsrc": "src/assets/towers1.png"
+            "imgsrc": "assets/towers1.png"
         },
         {
             "bitzId": "55",
@@ -484,7 +484,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings, and freeform.",
             "urltogame": "http://ditzbitz.com/powertowerx.html",
             "tags": [3],
-            "imgsrc": "src/assets/towersf1.png"
+            "imgsrc": "assets/towersf1.png"
         },
         {
             "bitzId": "56",
@@ -493,7 +493,7 @@ STATE = {
             "description": "Colonize the galaxy, fight for the supremacy of your species!",
             "urltogame": "http://ditzbitz.com/sagitarius.html",
             "tags": [1,3,4,5,6],
-            "imgsrc": "src/assets/king1.png"
+            "imgsrc": "assets/king1.png"
         },
         {
             "bitzId": "57",
@@ -502,7 +502,7 @@ STATE = {
             "description": "Do the math, disarm the bomb!",
             "urltogame": "http://ditzbitz.com/muse.html",
             "tags": [5,7,8],
-            "imgsrc": "src/assets/blastyboxes1.png"
+            "imgsrc": "assets/blastyboxes1.png"
         },
         {
             "bitzId": "58",
@@ -511,7 +511,7 @@ STATE = {
             "description": "Select the box, move the ball, violate inertia!",
             "urltogame": "http://ditzbitz.com/boxsteer.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/boxsteer1.png"
+            "imgsrc": "assets/boxsteer1.png"
         },
         {
             "bitzId": "59",
@@ -520,7 +520,7 @@ STATE = {
             "description": "Collect the boxes, swoop the ball.",
             "urltogame": "http://ditzbitz.com/swoop.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/swoop1.png"
+            "imgsrc": "assets/swoop1.png"
         },
         {
             "bitzId": "60",
@@ -529,7 +529,7 @@ STATE = {
             "description": "Protect yourself with deadly force.",
             "urltogame": "http://ditzbitz.com/blastyballs.html",
             "tags": [1,4,5],
-            "imgsrc": "src/assets/blastyballs1.png"
+            "imgsrc": "assets/blastyballs1.png"
         },
         {
             "bitzId": "61",
@@ -538,7 +538,7 @@ STATE = {
             "description": "Protect yourself with deadly force, but in a dungeon.",
             "urltogame": "http://ditzbitz.com/crawler.html",
             "tags": [1,4,5],
-            "imgsrc": "src/assets/crawler1.png"
+            "imgsrc": "assets/crawler1.png"
         },
         {
             "bitzId": "62",
@@ -547,7 +547,7 @@ STATE = {
             "description": "Solar-powered platforming.",
             "urltogame": "http://ditzbitz.com/curveshot.html",
             "tags": [0, 9],
-            "imgsrc": "src/assets/boggy1.png"
+            "imgsrc": "assets/boggy1.png"
         },
         {
             "bitzId": "62",
@@ -556,7 +556,7 @@ STATE = {
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
             "tags": [2,3,4,5,6],
-            "imgsrc": "src/assets/sailing1.png"
+            "imgsrc": "assets/sailing1.png"
         },
         {
             "bitzId": "63",
@@ -565,7 +565,7 @@ STATE = {
             "description": "Math-powered thinkforming.",
             "urltogame": "http://ditzbitz.com/box.html",
             "tags": [8],
-            "imgsrc": "src/assets/beatbox1.png"
+            "imgsrc": "assets/beatbox1.png"
         },
         {
             "bitzId": "65",
@@ -574,7 +574,7 @@ STATE = {
             "description": "Shape-shiting action RPG.",
             "urltogame": "http://ditzbitz.com/dancer.html",
             "tags": [2,3,4,5],
-            "imgsrc": "src/assets/dancer1.png"
+            "imgsrc": "assets/dancer1.png"
         },
         {
             "bitzId": "66",
@@ -583,7 +583,7 @@ STATE = {
             "description": "Breed patterns.",
             "urltogame": "http://ditzbitz.com/tempus.html",
             "tags": [1, 10],
-            "imgsrc": "src/assets/octobreeder1.png"
+            "imgsrc": "assets/octobreeder1.png"
         },
         {
             "bitzId": "67",
@@ -592,7 +592,7 @@ STATE = {
             "description": "Ray casting.",
             "urltogame": "http://ditzbitz.com/rays.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/rays1.png"
+            "imgsrc": "assets/rays1.png"
         },
         {
             "bitzId": "68",
@@ -601,7 +601,7 @@ STATE = {
             "description": "Ray carsting.",
             "urltogame": "http://ditzbitz.com/carray.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/rayscar1.png"
+            "imgsrc": "assets/rayscar1.png"
         },
         {
             "bitzId": "69",
@@ -610,7 +610,7 @@ STATE = {
             "description": "Snake, but with gravity.",
             "urltogame": "http://ditzbitz.com/pitsnake.html",
             "tags": [0],
-            "imgsrc": "src/assets/pitsnake1.png"
+            "imgsrc": "assets/pitsnake1.png"
         },
         {
             "bitzId": "70",
@@ -619,7 +619,7 @@ STATE = {
             "description": "Rope, but with gravity.",
             "urltogame": "http://ditzbitz.com/springbase.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/rope1.png"
+            "imgsrc": "assets/rope1.png"
         },
         {
             "bitzId": "71",
@@ -628,7 +628,7 @@ STATE = {
             "description": "Slime, but with gravity.",
             "urltogame": "http://ditzbitz.com/slime.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/structures1.png"
+            "imgsrc": "assets/structures1.png"
         },
         {
             "bitzId": "72",
@@ -637,7 +637,7 @@ STATE = {
             "description": "Build a happy city.",
             "urltogame": "http://ditzbitz.com/commoditycity.html",
             "tags": [6,3],
-            "imgsrc": "src/assets/city1.png"
+            "imgsrc": "assets/city1.png"
         },
         {
             "bitzId": "73",
@@ -646,7 +646,7 @@ STATE = {
             "description": "Burn it all down.",
             "urltogame": "http://ditzbitz.com/fire.html",
             "tags": [1,4,0],
-            "imgsrc": "src/assets/smokey1.png"
+            "imgsrc": "assets/smokey1.png"
         },
         {
             "bitzId": "74",
@@ -655,7 +655,7 @@ STATE = {
             "description": "Squish fruits.",
             "urltogame": "http://ditzbitz.com/fruitsquish.html",
             "tags": [1,7,3],
-            "imgsrc": "src/assets/fruitsquish1.png"
+            "imgsrc": "assets/fruitsquish1.png"
         },
         {
             "bitzId": "75",
@@ -664,7 +664,7 @@ STATE = {
             "description": "Film the exploding fireworks with your drone.",
             "urltogame": "http://ditzbitz.com/firedrone.html",
             "tags": [0,1,7,3],
-            "imgsrc": "src/assets/dancing1.png"
+            "imgsrc": "assets/dancing1.png"
         },
         {
             "bitzId": "76",
@@ -673,7 +673,7 @@ STATE = {
             "description": "Scroll through the ant-hill.",
             "urltogame": "http://ditzbitz.com/anteslope.html",
             "tags": [0,1,7,3],
-            "imgsrc": "src/assets/anthill1.png"
+            "imgsrc": "assets/anthill1.png"
         },
         {
             "bitzId": "77",
@@ -682,7 +682,7 @@ STATE = {
             "description": "Blast through the walls.",
             "urltogame": "http://ditzbitz.com/grenade.html",
             "tags": [0,4,2,6],
-            "imgsrc": "src/assets/boom1.png"
+            "imgsrc": "assets/boom1.png"
         },
         {
             "bitzId": "78",
@@ -691,7 +691,7 @@ STATE = {
             "description": "An RPG with spell crafting. Beyond language.",
             "urltogame": "http://ditzbitz.com/O.html",
             "tags": [1,3,4,5,7,8],
-            "imgsrc": "src/assets/o1.png"
+            "imgsrc": "assets/o1.png"
         },
         {
             "bitzId": "79",
@@ -700,7 +700,7 @@ STATE = {
             "description": "Climb away from the lava!",
             "urltogame": "http://ditzbitz.com/grappler.html",
             "tags": [0,2,4,5,6],
-            "imgsrc": "src/assets/grappler1.png"
+            "imgsrc": "assets/grappler1.png"
         },
         {
             "bitzId": "80",
@@ -709,7 +709,7 @@ STATE = {
             "description": "Fly out of the shaft!",
             "urltogame": "http://ditzbitz.com/autorise.html",
             "tags": [0, 4],
-            "imgsrc": "src/assets/autorise1.png"
+            "imgsrc": "assets/autorise1.png"
         },
         {
             "bitzId": "81",
@@ -718,7 +718,7 @@ STATE = {
             "description": "Crawl the sloth",
             "urltogame": "http://ditzbitz.com/sloth.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/sloth1.png"
+            "imgsrc": "assets/sloth1.png"
         },
         {
             "bitzId": "82",
@@ -727,7 +727,7 @@ STATE = {
             "description": "Direct the sloth",
             "urltogame": "http://ditzbitz.com/sloth2.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/slothai1.png"
+            "imgsrc": "assets/slothai1.png"
         },
         {
             "bitzId": "83",
@@ -736,7 +736,7 @@ STATE = {
             "description": "Direct the sloth to crawl",
             "urltogame": "http://ditzbitz.com/platformrpgoctopus.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/spidersloth1.png"
+            "imgsrc": "assets/spidersloth1.png"
         },
         {
             "bitzId": "84",
@@ -745,7 +745,7 @@ STATE = {
             "description": "Direct the crew to control the ship",
             "urltogame": "http://ditzbitz.com/btl.html",
             "tags": [3,4,5,6],
-            "imgsrc": "src/assets/btl1.png"
+            "imgsrc": "assets/btl1.png"
         },
         {
             "bitzId": "85",
@@ -754,7 +754,7 @@ STATE = {
             "description": "Watch the buggin frolic. You can feed them.",
             "urltogame": "http://ditzbitz.com/buggin.html",
             "tags": [6],
-            "imgsrc": "src/assets/buggin1.png"
+            "imgsrc": "assets/buggin1.png"
         },
         {
             "bitzId": "86",
@@ -763,7 +763,7 @@ STATE = {
             "description": "Watch the demons you summon be killed by your tower.",
             "urltogame": "http://ditzbitz.com/deathtower.html",
             "tags": [],
-            "imgsrc": "src/assets/death1.png"
+            "imgsrc": "assets/death1.png"
         },
         {
             "bitzId": "87",
@@ -772,7 +772,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs.",
             "urltogame": "http://ditzbitz.com/manatee.html",
             "tags": [0,1,2,4],
-            "imgsrc": "src/assets/manatee1.png"
+            "imgsrc": "assets/manatee1.png"
         },
         {
             "bitzId": "88",
@@ -781,7 +781,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs, but you're a donut.",
             "urltogame": "http://ditzbitz.com/manateed.html",
             "tags": [0,1,2,4],
-            "imgsrc": "src/assets/donutee1.png"
+            "imgsrc": "assets/donutee1.png"
         },
         {
             "bitzId": "89",
@@ -790,7 +790,7 @@ STATE = {
             "description": "Leap freely but you're a banana.",
             "urltogame": "http://ditzbitz.com/anana.html",
             "tags": [],
-            "imgsrc": "src/assets/nanner1.png"
+            "imgsrc": "assets/nanner1.png"
         },
         {
             "bitzId": "90",
@@ -799,7 +799,7 @@ STATE = {
             "description": "Knock over a stack of balls with a donut.",
             "urltogame": "http://ditzbitz.com/flinger.html",
             "tags": [0],
-            "imgsrc": "src/assets/angry1.png"
+            "imgsrc": "assets/angry1.png"
         },
         {
             "bitzId": "91",
@@ -808,7 +808,7 @@ STATE = {
             "description": "Plants, animals, and their visual acuity evolve over time.",
             "urltogame": "http://ditzbitz.com/evoisland.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/island1.png"
+            "imgsrc": "assets/island1.png"
         },
         {
             "bitzId": "92",
@@ -817,7 +817,7 @@ STATE = {
             "description": "Typing with a pleasant set of sounds.",
             "urltogame": "http://ditzbitz.com/typingtutor.html",
             "tags": [2],
-            "imgsrc": "src/assets/typing1.png"
+            "imgsrc": "assets/typing1.png"
         },
         {
             "bitzId": "93",
@@ -826,7 +826,7 @@ STATE = {
             "description": "Help Pomao get home, among other things.",
             "urltogame": "http://ditzbitz.com/pomao.html",
             "tags": [0,2,4,5,9],
-            "imgsrc": "src/assets/pomao1.png"
+            "imgsrc": "assets/pomao1.png"
         },
         {
             "bitzId": "94",
@@ -835,7 +835,7 @@ STATE = {
             "description": "Julia sets.",
             "urltogame": "http://ditzbitz.com/julia.html",
             "tags": [8],
-            "imgsrc": "src/assets/julia1.png"
+            "imgsrc": "assets/julia1.png"
         },
         {
             "bitzId": "95",
@@ -844,7 +844,7 @@ STATE = {
             "description": "Catch and eat fish.",
             "urltogame": "http://ditzbitz.com/fiskerman.html",
             "tags": [0],
-            "imgsrc": "src/assets/fiskerman1.png"
+            "imgsrc": "assets/fiskerman1.png"
         },
         {
             "bitzId": "96",
@@ -853,7 +853,7 @@ STATE = {
             "description": "Grind up some meat.",
             "urltogame": "http://ditzbitz.com/meatgrinder.html",
             "tags": [0],
-            "imgsrc": "src/assets/meatgrinder1.png"
+            "imgsrc": "assets/meatgrinder1.png"
         }
     ],
     displayBitz: [
@@ -864,7 +864,7 @@ STATE = {
             "description": "A snake-asteroids game, click and steer at the same time to help captain Kessler clean up the asteroid!",
             "urltogame": "http://ditzbitz.com/blaster.html",
             "tags": [4],
-            "imgsrc": "src/assets/kessler1.png"
+            "imgsrc": "assets/kessler1.png"
         },
         {
             "bitzId": "2",
@@ -873,7 +873,7 @@ STATE = {
             "description": "Moon-colonization and simple steering with physics.",
             "urltogame": "http://ditzbitz.com/moonshot.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/moonshot1.png"
+            "imgsrc": "assets/moonshot1.png"
         },
         {
             "bitzId": "3",
@@ -882,7 +882,7 @@ STATE = {
             "description": "A simple endless runner.",
             "urltogame": "http://ditzbitz.com/rollout.html",
             "tags": [4, 2],
-            "imgsrc": "src/assets/rollout1.png"
+            "imgsrc": "assets/rollout1.png"
         },
         {
             "bitzId": "4",
@@ -891,7 +891,7 @@ STATE = {
             "description": "A rock-paper-scissors population dynamics simulation themed around Bacteria!",
             "urltogame": "http://ditzbitz.com/bacterioids.html",
             "tags": [6],
-            "imgsrc": "src/assets/bacteroids1.png"
+            "imgsrc": "assets/bacteroids1.png"
         },
         {
             "bitzId": "5",
@@ -900,7 +900,7 @@ STATE = {
             "description": "A population dynamics simulation themed around Archeans!",
             "urltogame": "http://ditzbitz.com/animal.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/archeanoids1.png"
+            "imgsrc": "assets/archeanoids1.png"
         },
         {
             "bitzId": "6",
@@ -909,7 +909,7 @@ STATE = {
             "description": "A population dynamics simulation themed around Yeast!",
             "urltogame": "http://ditzbitz.com/yeasterealiac.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/yeastoids1.png"
+            "imgsrc": "assets/yeastoids1.png"
         },
         {
             "bitzId": "7",
@@ -918,7 +918,7 @@ STATE = {
             "description": "Break the bricks, steer the ball.",
             "urltogame": "http://ditzbitz.com/zarkavoids.html",
             "tags": [0],
-            "imgsrc": "src/assets/zarkavoids1.png"
+            "imgsrc": "assets/zarkavoids1.png"
         },
         {
             "bitzId": "8",
@@ -927,7 +927,7 @@ STATE = {
             "description": "Fall freely, but not for very long.",
             "urltogame": "http://ditzbitz.com/platforms.html",
             "tags": [],
-            "imgsrc": "src/assets/platform1.png"
+            "imgsrc": "assets/platform1.png"
         },
         {
             "bitzId": "9",
@@ -936,7 +936,7 @@ STATE = {
             "description": "Consume small white balls, stick to large blue walls.",
             "urltogame": "http://ditzbitz.com/katamaracman.html",
             "tags": [6],
-            "imgsrc": "src/assets/kat1.png"
+            "imgsrc": "assets/kat1.png"
         },
         {
             "bitzId": "10",
@@ -945,7 +945,7 @@ STATE = {
             "description": "Watch and guide the charged particles as they orbit.",
             "urltogame": "http://ditzbitz.com/magneato.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/mag1.png"
+            "imgsrc": "assets/mag1.png"
         },
         {
             "bitzId": "11",
@@ -954,7 +954,7 @@ STATE = {
             "description": "Adjust the explosion as you like.",
             "urltogame": "http://ditzbitz.com/firework.html",
             "tags": [1, 6],
-            "imgsrc": "src/assets/firework1.png"
+            "imgsrc": "assets/firework1.png"
         },
         {
             "bitzId": "12",
@@ -963,7 +963,7 @@ STATE = {
             "description": "Test how good you are at clicking.",
             "urltogame": "http://ditzbitz.com/boxclick.html",
             "tags": [],
-            "imgsrc": "src/assets/boxclick1.png"
+            "imgsrc": "assets/boxclick1.png"
         },
         {
             "bitzId": "13",
@@ -972,7 +972,7 @@ STATE = {
             "description": "Its an idle clicking income generation game.",
             "urltogame": "http://ditzbitz.com/simonclicks.html",
             "tags": [],
-            "imgsrc": "src/assets/simon1.png"
+            "imgsrc": "assets/simon1.png"
         },
         {
             "bitzId": "14",
@@ -981,7 +981,7 @@ STATE = {
             "description": "Click and drag the bouyant masses around the pool of water.",
             "urltogame": "http://ditzbitz.com/yeahbuoy.html",
             "tags": [0,6,1],
-            "imgsrc": "src/assets/buoy1.png"
+            "imgsrc": "assets/buoy1.png"
         },
         {
             "bitzId": "15",
@@ -990,7 +990,7 @@ STATE = {
             "description": "Click to steer your sheep-dog, scare the sheep into a bottomless pit.",
             "urltogame": "http://ditzbitz.com/sheephole.html",
             "tags": [0],
-            "imgsrc": "src/assets/sheephole1.png"
+            "imgsrc": "assets/sheephole1.png"
         },
         {
             "bitzId": "16",
@@ -999,7 +999,7 @@ STATE = {
             "description": "Help captain Kessler return to earth.",
             "urltogame": "http://ditzbitz.com/crashdown.html",
             "tags": [6],
-            "imgsrc": "src/assets/kesslercomedown1.png"
+            "imgsrc": "assets/kesslercomedown1.png"
         },
         {
             "bitzId": "17",
@@ -1008,7 +1008,7 @@ STATE = {
             "description": "Just a pleasant rippling pattern.",
             "urltogame": "http://ditzbitz.com/rippler.html",
             "tags": [1],
-            "imgsrc": "src/assets/rippler1.png"
+            "imgsrc": "assets/rippler1.png"
         },
         {
             "bitzId": "18",
@@ -1017,7 +1017,7 @@ STATE = {
             "description": "Watch the gas compress and decompress.",
             "urltogame": "http://ditzbitz.com/duster.html",
             "tags": [1,6,0],
-            "imgsrc": "src/assets/gascompressor1.png"
+            "imgsrc": "assets/gascompressor1.png"
         },
         {
             "bitzId": "19",
@@ -1026,7 +1026,7 @@ STATE = {
             "description": "Gears making connections.",
             "urltogame": "http://ditzbitz.com/cognito.html",
             "tags": [1,6,0],
-            "imgsrc": "src/assets/cognito1.png"
+            "imgsrc": "assets/cognito1.png"
         },
         {
             "bitzId": "20",
@@ -1035,7 +1035,7 @@ STATE = {
             "description": "A Barnsley fern generator.",
             "urltogame": "http://ditzbitz.com/makelikeatree.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/tree1.png"
+            "imgsrc": "assets/tree1.png"
         },
         {
             "bitzId": "21",
@@ -1044,7 +1044,7 @@ STATE = {
             "description": "A rainbow spinner.",
             "urltogame": "http://ditzbitz.com/spirotron.html",
             "tags": [1],
-            "imgsrc": "src/assets/rainbow1.png"
+            "imgsrc": "assets/rainbow1.png"
         },
         {
             "bitzId": "22",
@@ -1053,7 +1053,7 @@ STATE = {
             "description": "A waveform toy.",
             "urltogame": "http://ditzbitz.com/waves.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/waves1.png"
+            "imgsrc": "assets/waves1.png"
         },
         {
             "bitzId": "23",
@@ -1062,7 +1062,7 @@ STATE = {
             "description": "Space golf",
             "urltogame": "http://ditzbitz.com/garbogolf.html",
             "tags": [0],
-            "imgsrc": "src/assets/garbo1.png"
+            "imgsrc": "assets/garbo1.png"
         },
         {
             "bitzId": "24",
@@ -1071,7 +1071,7 @@ STATE = {
             "description": "Pick fruit.",
             "urltogame": "http://ditzbitz.com/fruitpicker.html",
             "tags": [6],
-            "imgsrc": "src/assets/fruitpicker1.png"
+            "imgsrc": "assets/fruitpicker1.png"
         },
         {
             "bitzId": "25",
@@ -1080,7 +1080,7 @@ STATE = {
             "description": "A very basic facsimile of a MOBA game.",
             "urltogame": "http://ditzbitz.com/autocheckers.html",
             "tags": [6,3,4],
-            "imgsrc": "src/assets/moba1.png"
+            "imgsrc": "assets/moba1.png"
         },
         {
             "bitzId": "26",
@@ -1089,7 +1089,7 @@ STATE = {
             "description": "A very bad word toy.",
             "urltogame": "http://ditzbitz.com/words.html",
             "tags": [],
-            "imgsrc": "src/assets/words1.png"
+            "imgsrc": "assets/words1.png"
         },
         {
             "bitzId": "27",
@@ -1098,7 +1098,7 @@ STATE = {
             "description": "A gradient making toy.",
             "urltogame": "http://ditzbitz.com/gradient.html",
             "tags": [1],
-            "imgsrc": "src/assets/gradient1.png"
+            "imgsrc": "assets/gradient1.png"
         },
         {
             "bitzId": "28",
@@ -1107,7 +1107,7 @@ STATE = {
             "description": "Play with the conspiracy webtoy.",
             "urltogame": "http://ditzbitz.com/conspiratron.html",
             "tags": [1],
-            "imgsrc": "src/assets/conspiratron1.png"
+            "imgsrc": "assets/conspiratron1.png"
         },
         {
             "bitzId": "29",
@@ -1116,7 +1116,7 @@ STATE = {
             "description": "Play with the worm webtoy.",
             "urltogame": "http://ditzbitz.com/wormer.html",
             "tags": [],
-            "imgsrc": "src/assets/wormer1.png"
+            "imgsrc": "assets/wormer1.png"
         },
         {
             "bitzId": "30",
@@ -1125,7 +1125,7 @@ STATE = {
             "description": "Watch the drops fall.",
             "urltogame": "http://ditzbitz.com/drops.html",
             "tags": [],
-            "imgsrc": "src/assets/drip1.png"
+            "imgsrc": "assets/drip1.png"
         },
         {
             "bitzId": "31",
@@ -1134,7 +1134,7 @@ STATE = {
             "description": "Watch the bloom spin.",
             "urltogame": "http://ditzbitz.com/recurse.html",
             "tags": [1],
-            "imgsrc": "src/assets/bloomer1.png"
+            "imgsrc": "assets/bloomer1.png"
         },
         {
             "bitzId": "32",
@@ -1143,7 +1143,7 @@ STATE = {
             "description": "Race your friend!",
             "urltogame": "http://ditzbitz.com/safetyrace.html",
             "tags": [4],
-            "imgsrc": "src/assets/lapjam1.png"
+            "imgsrc": "assets/lapjam1.png"
         },
         {
             "bitzId": "33",
@@ -1152,7 +1152,7 @@ STATE = {
             "description": "Blast the flying grids to smithereens!",
             "urltogame": "http://ditzbitz.com/digzone.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/digzone1.png"
+            "imgsrc": "assets/digzone1.png"
         },
         {
             "bitzId": "34",
@@ -1161,7 +1161,7 @@ STATE = {
             "description": "Collect the dots with your body.",
             "urltogame": "http://ditzbitz.com/dongodongo.html",
             "tags": [1],
-            "imgsrc": "src/assets/dongodongo1.png"
+            "imgsrc": "assets/dongodongo1.png"
         },
         {
             "bitzId": "35",
@@ -1170,7 +1170,7 @@ STATE = {
             "description": "Stack blocks and jump around.",
             "urltogame": "http://ditzbitz.com/stackzone.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/stackzone1.png"
+            "imgsrc": "assets/stackzone1.png"
         },
         {
             "bitzId": "36",
@@ -1179,7 +1179,7 @@ STATE = {
             "description": "Defend your young, keep the ocean clean!",
             "urltogame": "http://ditzbitz.com/corona.html",
             "tags": [0,1,4,5,6],
-            "imgsrc": "src/assets/knocktapus1.png"
+            "imgsrc": "assets/knocktapus1.png"
         },
         {
             "bitzId": "37",
@@ -1188,7 +1188,7 @@ STATE = {
             "description": "Ping!",
             "urltogame": "http://ditzbitz.com/pang.html",
             "tags": [],
-            "imgsrc": "src/assets/pang1.png"
+            "imgsrc": "assets/pang1.png"
         },
         {
             "bitzId": "38",
@@ -1197,7 +1197,7 @@ STATE = {
             "description": "Prevent the survival of everyone but the red dot.",
             "urltogame": "http://ditzbitz.com/bullyball.html",
             "tags": [4],
-            "imgsrc": "src/assets/bullball1.png"
+            "imgsrc": "assets/bullball1.png"
         },
         {
             "bitzId": "39",
@@ -1206,7 +1206,7 @@ STATE = {
             "description": "Literally running in circles.",
             "urltogame": "http://ditzbitz.com/circlerunner.html",
             "tags": [2],
-            "imgsrc": "src/assets/roundbound1.png"
+            "imgsrc": "assets/roundbound1.png"
         },
         {
             "bitzId": "40",
@@ -1215,7 +1215,7 @@ STATE = {
             "description": "A loud space shooter with a tractor beam.",
             "urltogame": "http://ditzbitz.com/tractor.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/tractorscam1.png"
+            "imgsrc": "assets/tractorscam1.png"
         },
         {
             "bitzId": "41",
@@ -1224,7 +1224,7 @@ STATE = {
             "description": "A platforming adventure in a graph.",
             "urltogame": "http://ditzbitz.com/grap.html",
             "tags": [0,2, 9],
-            "imgsrc": "src/assets/graphics1.png"
+            "imgsrc": "assets/graphics1.png"
         },
         {
             "bitzId": "42",
@@ -1233,7 +1233,7 @@ STATE = {
             "description": "A deck-building math-strategy card-combat RPG.",
             "urltogame": "http://ditzbitz.com/trigtrials.html",
             "tags": [3,1,5, 8],
-            "imgsrc": "src/assets/trigtrials1.png"
+            "imgsrc": "assets/trigtrials1.png"
         },
         {
             "bitzId": "43",
@@ -1242,7 +1242,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/wigglewall.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/wigglewall1.png"
+            "imgsrc": "assets/wigglewall1.png"
         },
         {
             "bitzId": "44",
@@ -1251,7 +1251,7 @@ STATE = {
             "description": "Navigate the world as a snake-woman.",
             "urltogame": "http://ditzbitz.com/slither.html",
             "tags": [2,4, 9],
-            "imgsrc": "src/assets/vipress1.png"
+            "imgsrc": "assets/vipress1.png"
         },
         {
             "bitzId": "45",
@@ -1260,7 +1260,7 @@ STATE = {
             "description": "Watch the walls warp as you click.",
             "urltogame": "http://ditzbitz.com/felldown.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/felldown1.png"
+            "imgsrc": "assets/felldown1.png"
         },
         {
             "bitzId": "46",
@@ -1269,7 +1269,7 @@ STATE = {
             "description": "Use all of your wits and fingers to controll the runner.",
             "urltogame": "http://ditzbitz.com/rainbowrunner.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/rainbowrunner1.png"
+            "imgsrc": "assets/rainbowrunner1.png"
         },
         {
             "bitzId": "47",
@@ -1278,7 +1278,7 @@ STATE = {
             "description": "Hop the dot through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinder.html",
             "tags": [0],
-            "imgsrc": "src/assets/hoppy1.png"
+            "imgsrc": "assets/hoppy1.png"
         },
         {
             "bitzId": "48",
@@ -1287,7 +1287,7 @@ STATE = {
             "description": "Hop the donut through the gaps in the walls.",
             "urltogame": "http://ditzbitz.com/sidewinderd.html",
             "tags": [0,1],
-            "imgsrc": "src/assets/hopdonut1.png"
+            "imgsrc": "assets/hopdonut1.png"
         },
         {
             "bitzId": "49",
@@ -1296,7 +1296,7 @@ STATE = {
             "description": "Manipulate the fungal evolution.",
             "urltogame": "http://ditzbitz.com/bungi.html",
             "tags": [1, 6, 10 ],
-            "imgsrc": "src/assets/bungi1.png"
+            "imgsrc": "assets/bungi1.png"
         },
         {
             "bitzId": "50",
@@ -1305,7 +1305,7 @@ STATE = {
             "description": "Play this fairly typical resource-management turn-based RPG.",
             "urltogame": "http://ditzbitz.com/beatnik.html",
             "tags": [7, 3, 5, 8],
-            "imgsrc": "src/assets/beatnik1.png"
+            "imgsrc": "assets/beatnik1.png"
         },
         {
             "bitzId": "52",
@@ -1314,7 +1314,7 @@ STATE = {
             "description": "A pandemic simulation.",
             "urltogame": "http://ditzbitz.com/spop.html",
             "tags": [1, 6],
-            "imgsrc": "src/assets/spop1.png"
+            "imgsrc": "assets/spop1.png"
         },
         {
             "bitzId": "53",
@@ -1323,7 +1323,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home.",
             "urltogame": "http://ditzbitz.com/recoil.html",
             "tags": [4],
-            "imgsrc": "src/assets/laserscroller1.png"
+            "imgsrc": "assets/laserscroller1.png"
         },
         {
             "bitzId": "54",
@@ -1332,7 +1332,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings.",
             "urltogame": "http://ditzbitz.com/powertower.html",
             "tags": [3],
-            "imgsrc": "src/assets/towers1.png"
+            "imgsrc": "assets/towers1.png"
         },
         {
             "bitzId": "55",
@@ -1341,7 +1341,7 @@ STATE = {
             "description": "Laser the bombs before they destroy your home, but with buildings, and freeform.",
             "urltogame": "http://ditzbitz.com/powertowerx.html",
             "tags": [3],
-            "imgsrc": "src/assets/towersf1.png"
+            "imgsrc": "assets/towersf1.png"
         },
         {
             "bitzId": "56",
@@ -1350,7 +1350,7 @@ STATE = {
             "description": "Colonize the galaxy, fight for the supremacy of your species!",
             "urltogame": "http://ditzbitz.com/sagitarius.html",
             "tags": [1,3,4,5,6],
-            "imgsrc": "src/assets/king1.png"
+            "imgsrc": "assets/king1.png"
         },
         {
             "bitzId": "57",
@@ -1359,7 +1359,7 @@ STATE = {
             "description": "Do the math, disarm the bomb!",
             "urltogame": "http://ditzbitz.com/muse.html",
             "tags": [5,7,8],
-            "imgsrc": "src/assets/blastyboxes1.png"
+            "imgsrc": "assets/blastyboxes1.png"
         },
         {
             "bitzId": "58",
@@ -1368,7 +1368,7 @@ STATE = {
             "description": "Select the box, move the ball, violate inertia!",
             "urltogame": "http://ditzbitz.com/boxsteer.html",
             "tags": [0,4],
-            "imgsrc": "src/assets/boxsteer1.png"
+            "imgsrc": "assets/boxsteer1.png"
         },
         {
             "bitzId": "59",
@@ -1377,7 +1377,7 @@ STATE = {
             "description": "Collect the boxes, swoop the ball.",
             "urltogame": "http://ditzbitz.com/swoop.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/swoop1.png"
+            "imgsrc": "assets/swoop1.png"
         },
         {
             "bitzId": "60",
@@ -1386,7 +1386,7 @@ STATE = {
             "description": "Protect yourself with deadly force.",
             "urltogame": "http://ditzbitz.com/blastyballs.html",
             "tags": [1,4,5],
-            "imgsrc": "src/assets/blastyballs1.png"
+            "imgsrc": "assets/blastyballs1.png"
         },
         {
             "bitzId": "61",
@@ -1395,7 +1395,7 @@ STATE = {
             "description": "Protect yourself with deadly force, but in a dungeon.",
             "urltogame": "http://ditzbitz.com/crawler.html",
             "tags": [1,4,5],
-            "imgsrc": "src/assets/crawler1.png"
+            "imgsrc": "assets/crawler1.png"
         },
         {
             "bitzId": "62",
@@ -1404,7 +1404,7 @@ STATE = {
             "description": "Solar-powered platforming.",
             "urltogame": "http://ditzbitz.com/curveshot.html",
             "tags": [0, 9],
-            "imgsrc": "src/assets/boggy1.png"
+            "imgsrc": "assets/boggy1.png"
         },
         {
             "bitzId": "62",
@@ -1413,7 +1413,7 @@ STATE = {
             "description": "Sailing around the submerged city.",
             "urltogame": "http://ditzbitz.com/swooplesssea.html",
             "tags": [2,3,4,5,6],
-            "imgsrc": "src/assets/sailing1.png"
+            "imgsrc": "assets/sailing1.png"
         },
         {
             "bitzId": "63",
@@ -1422,7 +1422,7 @@ STATE = {
             "description": "Math-powered thinkforming.",
             "urltogame": "http://ditzbitz.com/box.html",
             "tags": [8],
-            "imgsrc": "src/assets/beatbox1.png"
+            "imgsrc": "assets/beatbox1.png"
         },
         {
             "bitzId": "65",
@@ -1431,7 +1431,7 @@ STATE = {
             "description": "Shape-shiting action RPG.",
             "urltogame": "http://ditzbitz.com/dancer.html",
             "tags": [2,3,4,5],
-            "imgsrc": "src/assets/dancer1.png"
+            "imgsrc": "assets/dancer1.png"
         },
         {
             "bitzId": "66",
@@ -1440,7 +1440,7 @@ STATE = {
             "description": "Breed patterns.",
             "urltogame": "http://ditzbitz.com/tempus.html",
             "tags": [1, 10],
-            "imgsrc": "src/assets/octobreeder1.png"
+            "imgsrc": "assets/octobreeder1.png"
         },
         {
             "bitzId": "67",
@@ -1449,7 +1449,7 @@ STATE = {
             "description": "Ray casting.",
             "urltogame": "http://ditzbitz.com/rays.html",
             "tags": [1,6],
-            "imgsrc": "src/assets/rays1.png"
+            "imgsrc": "assets/rays1.png"
         },
         {
             "bitzId": "68",
@@ -1458,7 +1458,7 @@ STATE = {
             "description": "Ray carsting.",
             "urltogame": "http://ditzbitz.com/carray.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/rayscar1.png"
+            "imgsrc": "assets/rayscar1.png"
         },
         {
             "bitzId": "69",
@@ -1467,7 +1467,7 @@ STATE = {
             "description": "Snake, but with gravity.",
             "urltogame": "http://ditzbitz.com/pitsnake.html",
             "tags": [0],
-            "imgsrc": "src/assets/pitsnake1.png"
+            "imgsrc": "assets/pitsnake1.png"
         },
         {
             "bitzId": "70",
@@ -1476,7 +1476,7 @@ STATE = {
             "description": "Rope, but with gravity.",
             "urltogame": "http://ditzbitz.com/springbase.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/rope1.png"
+            "imgsrc": "assets/rope1.png"
         },
         {
             "bitzId": "71",
@@ -1485,7 +1485,7 @@ STATE = {
             "description": "Slime, but with gravity.",
             "urltogame": "http://ditzbitz.com/slime.html",
             "tags": [0,1,6],
-            "imgsrc": "src/assets/structures1.png"
+            "imgsrc": "assets/structures1.png"
         },
         {
             "bitzId": "72",
@@ -1494,7 +1494,7 @@ STATE = {
             "description": "Build a happy city.",
             "urltogame": "http://ditzbitz.com/commoditycity.html",
             "tags": [6,3],
-            "imgsrc": "src/assets/city1.png"
+            "imgsrc": "assets/city1.png"
         },
         {
             "bitzId": "73",
@@ -1503,7 +1503,7 @@ STATE = {
             "description": "Burn it all down.",
             "urltogame": "http://ditzbitz.com/fire.html",
             "tags": [1,4,0],
-            "imgsrc": "src/assets/smokey1.png"
+            "imgsrc": "assets/smokey1.png"
         },
         {
             "bitzId": "74",
@@ -1512,7 +1512,7 @@ STATE = {
             "description": "Squish fruits.",
             "urltogame": "http://ditzbitz.com/fruitsquish.html",
             "tags": [1,7,3],
-            "imgsrc": "src/assets/fruitsquish1.png"
+            "imgsrc": "assets/fruitsquish1.png"
         },
         {
             "bitzId": "75",
@@ -1521,7 +1521,7 @@ STATE = {
             "description": "Film the exploding fireworks with your drone.",
             "urltogame": "http://ditzbitz.com/firedrone.html",
             "tags": [0,1,7,3],
-            "imgsrc": "src/assets/dancing1.png"
+            "imgsrc": "assets/dancing1.png"
         },
         {
             "bitzId": "76",
@@ -1530,7 +1530,7 @@ STATE = {
             "description": "Scroll through the ant-hill.",
             "urltogame": "http://ditzbitz.com/anteslope.html",
             "tags": [0,1,7,3],
-            "imgsrc": "src/assets/anthill1.png"
+            "imgsrc": "assets/anthill1.png"
         },
         {
             "bitzId": "77",
@@ -1539,7 +1539,7 @@ STATE = {
             "description": "Blast through the walls.",
             "urltogame": "http://ditzbitz.com/grenade.html",
             "tags": [0,4,2,6],
-            "imgsrc": "src/assets/boom1.png"
+            "imgsrc": "assets/boom1.png"
         },
         {
             "bitzId": "78",
@@ -1548,7 +1548,7 @@ STATE = {
             "description": "An RPG with spell crafting. Beyond language.",
             "urltogame": "http://ditzbitz.com/O.html",
             "tags": [1,3,4,5,7,8],
-            "imgsrc": "src/assets/o1.png"
+            "imgsrc": "assets/o1.png"
         },
         {
             "bitzId": "79",
@@ -1557,7 +1557,7 @@ STATE = {
             "description": "Climb away from the lava!",
             "urltogame": "http://ditzbitz.com/grappler.html",
             "tags": [0,2,4,5,6],
-            "imgsrc": "src/assets/grappler1.png"
+            "imgsrc": "assets/grappler1.png"
         },
         {
             "bitzId": "80",
@@ -1566,7 +1566,7 @@ STATE = {
             "description": "Fly out of the shaft!",
             "urltogame": "http://ditzbitz.com/autorise.html",
             "tags": [0, 4],
-            "imgsrc": "src/assets/autorise1.png"
+            "imgsrc": "assets/autorise1.png"
         },
         {
             "bitzId": "81",
@@ -1575,7 +1575,7 @@ STATE = {
             "description": "Crawl the sloth",
             "urltogame": "http://ditzbitz.com/sloth.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/sloth1.png"
+            "imgsrc": "assets/sloth1.png"
         },
         {
             "bitzId": "82",
@@ -1584,7 +1584,7 @@ STATE = {
             "description": "Direct the sloth",
             "urltogame": "http://ditzbitz.com/sloth2.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/slothai1.png"
+            "imgsrc": "assets/slothai1.png"
         },
         {
             "bitzId": "83",
@@ -1593,7 +1593,7 @@ STATE = {
             "description": "Direct the sloth to crawl",
             "urltogame": "http://ditzbitz.com/platformrpgoctopus.html",
             "tags": [0,6],
-            "imgsrc": "src/assets/spidersloth1.png"
+            "imgsrc": "assets/spidersloth1.png"
         },
         {
             "bitzId": "84",
@@ -1602,7 +1602,7 @@ STATE = {
             "description": "Direct the crew to control the ship",
             "urltogame": "http://ditzbitz.com/btl.html",
             "tags": [3,4,5,6],
-            "imgsrc": "src/assets/btl1.png"
+            "imgsrc": "assets/btl1.png"
         },
         {
             "bitzId": "85",
@@ -1611,7 +1611,7 @@ STATE = {
             "description": "Watch the buggin frolic. You can feed them.",
             "urltogame": "http://ditzbitz.com/buggin.html",
             "tags": [6],
-            "imgsrc": "src/assets/buggin1.png"
+            "imgsrc": "assets/buggin1.png"
         },
         {
             "bitzId": "86",
@@ -1620,7 +1620,7 @@ STATE = {
             "description": "Watch the demons you summon be killed by your tower.",
             "urltogame": "http://ditzbitz.com/deathtower.html",
             "tags": [],
-            "imgsrc": "src/assets/death1.png"
+            "imgsrc": "assets/death1.png"
         },
         {
             "bitzId": "87",
@@ -1629,7 +1629,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs.",
             "urltogame": "http://ditzbitz.com/manatee.html",
             "tags": [0,1,2,4],
-            "imgsrc": "src/assets/manatee1.png"
+            "imgsrc": "assets/manatee1.png"
         },
         {
             "bitzId": "88",
@@ -1638,7 +1638,7 @@ STATE = {
             "description": "Leap freely in the flying water orbs, but you're a donut.",
             "urltogame": "http://ditzbitz.com/manateed.html",
             "tags": [0,1,2,4],
-            "imgsrc": "src/assets/donutee1.png"
+            "imgsrc": "assets/donutee1.png"
         },
         {
             "bitzId": "89",
@@ -1647,7 +1647,7 @@ STATE = {
             "description": "Leap freely but you're a banana.",
             "urltogame": "http://ditzbitz.com/anana.html",
             "tags": [],
-            "imgsrc": "src/assets/nanner1.png"
+            "imgsrc": "assets/nanner1.png"
         },
         {
             "bitzId": "90",
@@ -1656,7 +1656,7 @@ STATE = {
             "description": "Knock over a stack of balls with a donut.",
             "urltogame": "http://ditzbitz.com/flinger.html",
             "tags": [0],
-            "imgsrc": "src/assets/angry1.png"
+            "imgsrc": "assets/angry1.png"
         },
         {
             "bitzId": "91",
@@ -1665,7 +1665,7 @@ STATE = {
             "description": "Plants, animals, and their visual acuity evolve over time.",
             "urltogame": "http://ditzbitz.com/evoisland.html",
             "tags": [6, 10],
-            "imgsrc": "src/assets/island1.png"
+            "imgsrc": "assets/island1.png"
         },
         {
             "bitzId": "92",
@@ -1674,7 +1674,7 @@ STATE = {
             "description": "Typing with a pleasant set of sounds.",
             "urltogame": "http://ditzbitz.com/typingtutor.html",
             "tags": [2],
-            "imgsrc": "src/assets/typing1.png"
+            "imgsrc": "assets/typing1.png"
         },
         {
             "bitzId": "93",
@@ -1683,7 +1683,7 @@ STATE = {
             "description": "Help Pomao get home, among other things.",
             "urltogame": "http://ditzbitz.com/pomao.html",
             "tags": [0,2,4,5,9],
-            "imgsrc": "src/assets/pomao1.png"
+            "imgsrc": "assets/pomao1.png"
         },
         {
             "bitzId": "94",
@@ -1692,7 +1692,7 @@ STATE = {
             "description": "Julia sets.",
             "urltogame": "http://ditzbitz.com/julia.html",
             "tags": [8],
-            "imgsrc": "src/assets/julia1.png"
+            "imgsrc": "assets/julia1.png"
         },
         {
             "bitzId": "95",
@@ -1701,7 +1701,7 @@ STATE = {
             "description": "Catch and eat fish.",
             "urltogame": "http://ditzbitz.com/fiskerman.html",
             "tags": [0],
-            "imgsrc": "src/assets/fiskerman1.png"
+            "imgsrc": "assets/fiskerman1.png"
         },
         {
             "bitzId": "96",
@@ -1710,7 +1710,7 @@ STATE = {
             "description": "Grind up some meat.",
             "urltogame": "http://ditzbitz.com/meatgrinder.html",
             "tags": [0],
-            "imgsrc": "src/assets/meatgrinder1.png"
+            "imgsrc": "assets/meatgrinder1.png"
         }
     ],
     filterType: "All",
