@@ -39,6 +39,8 @@
           height: 450px;
           padding-top: 500px;
           padding-bottom: 500px;
+          margin-bottom: 500px;
+          margin-left: 500px;
         }
 
         #bitzgrid {
@@ -57,7 +59,7 @@
             DitzBitz
           </a>
         </div>
-        <div class="ui simple dropdown item">
+        <div class="ui simple scrolling dropdown item">
         Sort By <i class="dropdown icon"></i>
         <div class="menu" style="right: 0;left: auto;">
             <a class="item" id="alph">Alphabetically</a>
@@ -65,7 +67,7 @@
             <a class="item" id="old">Oldest</a>
         </div>
         </div>
-        <div class="ui simple dropdown item">
+        <div class="ui simple scrolling dropdown item">
           Filter <i class="dropdown icon"></i>
           <div class="menu" style="right: 0;left: auto;">
             <div class="header">Type</div>
@@ -89,13 +91,12 @@
         </div>
 
     </div>
-    </div>
 
+
+    <div class="ui icon button" data-tooltip="Add users to your feed">
+      <i class="add icon"></i>
     </div>
     <div class="ui stackable three column centered equal height grid" id="bitzgrid">
     </div>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
   </body>
 </html>
