@@ -1,5 +1,5 @@
 class Bitz {
-    constructor(bitz) {
+    constructor(bitz, row) {
         this.id = bitz.bitzId,
         this.name = bitz.name,
         this.game = bitz.game,
@@ -7,6 +7,7 @@ class Bitz {
         this.img = bitz.imgsrc
         this.url = bitz.urltogame,
         this.desc = bitz.description
+        this.row = row
 
         this.makeTheCard()
     }
