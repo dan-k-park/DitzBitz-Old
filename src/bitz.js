@@ -22,6 +22,7 @@ class Bitz {
         const imgDiv = document.createElement("div")
         const img = document.createElement("img")
         const icon = document.createElement("i")
+        const column = document.createElement("div")
 
         card.classList.add("ui")
         card.classList.add("card")
@@ -53,7 +54,8 @@ class Bitz {
         span.appendChild(icon)
         extraContent.appendChild(span)
         card.appendChild(extraContent)
-        document.getElementById("bitzgrid").appendChild(card)
+        column.appendChild(card)
+        document.getElementById("bitzgrid").appendChild(column)
 
     }
 }

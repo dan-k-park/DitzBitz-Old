@@ -14,7 +14,13 @@
         .ui.inverted.menu .moss.active.item,
         .ui.inverted.moss.menu {
         background-color: #004d3f;
+        font-size: 1.5rem;
         }
+
+        .ui.dropdown {
+          font-size: 1.5rem;
+        }
+
         img {
             display: block;
             margin-left: auto;
@@ -28,11 +34,25 @@
         a:hover {
           color: red;
         }
+
+        .card {
+          height: 450px;
+          padding-top: 500px;
+          padding-bottom: 500px;
+        }
+
+        #bitzgrid {
+          margin-top: 5rem;
+        }
+
+        #ditzbitz-header {
+          margin-left: 0;
+        }
     </style>
   </head>
   <body>
     <div class="ui fixed inverted moss menu">
-        <div class="ui container">
+        <div class="ui container" id="ditzbitz-header">
           <a href="http://ditzbitz.com/NewPage/portflie.html" class="header item">
             DitzBitz
           </a>
@@ -71,10 +91,7 @@
     </div>
     </div>
     </div>
-    <div class="ui stackable three column grid">
-      <div class="ui link cards" id="bitzgrid">
-
-      </div>
+    <div class="ui stackable three column centered equal height grid" id="bitzgrid">
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
