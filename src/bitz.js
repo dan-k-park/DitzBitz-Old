@@ -80,7 +80,7 @@ class Bitz {
         }
 
         tagSpan.setAttribute("data-tooltip", tagsString)
-        tagSpan.setAttribute("data-position", "bottom center")
+        tagSpan.setAttribute("data-position", "left center")
 
         img.src = this.img
         extraContent.appendChild(iconSpan)
