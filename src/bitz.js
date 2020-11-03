@@ -2,7 +2,7 @@ class Bitz {
     constructor(bitz, row) {
         this.id = bitz.bitzId,
         this.name = bitz.name,
-        this.game = bitz.game,
+        this.type = bitz.type,
         this.tags = bitz.tags,
         this.img = bitz.imgsrc
         this.url = bitz.urltogame,
@@ -58,10 +58,12 @@ class Bitz {
         tagIcon.classList.add("icon")
         tagIcon.id = "tags"
 
-        if (this.game) {
+        if (this.type === 1) {
             typeIcon.classList.add("gamepad")
-        } else {
+        } else if (this.type === 2) {
             typeIcon.classList.add("cogs")
+        } else {
+            typeIcon.classList.add("cube")
         }
         typeIcon.classList.add("icon")
 
